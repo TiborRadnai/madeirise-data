@@ -2,19 +2,24 @@
   "version": "2025-11-18",
   "routes": [
     {
-      "code": "PR 1",
-      "region": "Santana",
-      "status": "partial",
-      "name": {
+    "code": "PR 1",
+    "region": "Santana",
+    "status": "partial",
+    "name": {
         "en": "Vereda do Pico do Areeiro (Pico do Areeiro–Pico Ruivo)",
         "de": "Vereda do Pico do Areeiro (Pico do Areeiro–Pico Ruivo)"
-      },
-      "notes": {
+    },
+    "notes": {
         "en": "Trail only passable between Pico do Areeiro and Pedra Rija Belvedere (km 1.2).",
         "de": "Weg nur zwischen Pico do Areeiro und Pedra Rija Belvedere begehbar (km 1,2)."
-      },
-      "mapUrl": "/assets/maps/hiking/pr1-3.jpg",
-      "imageUrl": "/assets/images/hiking/pr1.webp"
+    },
+    "mapUrl": "/assets/maps/hiking/pr1-3.jpg",
+    "imageUrl": "/assets/images/hiking/pr1.webp",
+    "coords": [
+        [32.735, -16.928],
+        [32.756, -16.934]
+    ],
+    "gpxUrl": "/assets/gpx/pr1.gpx"
     },
 
     {
