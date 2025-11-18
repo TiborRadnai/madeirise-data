@@ -1,0 +1,167 @@
+{
+  "news": [
+{
+  "id": 51,
+  "title": "Letartóztatták a Ponta do Pargo-i tűzeset feltételezett elkövetőjét",
+  "date": "2025.08.20.",
+  "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/policeArrest.webp",
+  "excerpt": "Ponta do Pargo településen augusztus 19-én délután keletkezett bozóttűz ügyében a hatóságok őrizetbe vettek egy férfit, akit a tűz szándékos okozásával gyanúsítanak.",
+  "content": [
+    "A Pedregal térségében történt tűzeset után a Madeira-i Rendőrség (PSP) és az Erdészeti Rendőrség közös műveletben őrizetbe vett egy férfit, akit az augusztus 19-i tűz szándékos okozásával gyanúsítanak.",
+    "A tűzeset során három tűzoltóegység és a Regionális Polgári Védelem helikoptere is bevetésre került, hogy megfékezzék a gyorsan terjedő lángokat.",
+    "A hatóságok a helyszíni vizsgálatok és tanúvallomások alapján jutottak el a gyanúsítotthoz, akinek szerepét most büntetőeljárás keretében vizsgálják.",
+    "A Madeira-i Polgári Védelem kiemelte, hogy az ilyen esetek nemcsak a természeti környezetet, hanem az emberi életeket és lakóingatlanokat is veszélyeztetik.",
+    "A hatóságok fokozott figyelmet kérnek a lakosságtól, és hangsúlyozzák, hogy minden gyanús tevékenységet azonnal jelenteni kell.",
+    "A nyári időszakban különösen nagy a tűzveszély, ezért a megelőzés és a gyors reagálás kulcsfontosságú a hasonló esetek elkerülésében."
+  ]
+},
+{
+  "id": 50,
+  "title": "Helikopter és három tűzoltóegység küzdött a lángokkal Ponta do Pargo térségében",
+  "date": "2025.08.19.",
+  "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/firefightingHelicopter.webp",
+  "excerpt": "Augusztus 19-én délután tűz ütött ki Madeira nyugati részén, a Ponta do Pargo település Pedregal nevű térségében. A bozóttűz megfékezésére három tűzoltóegység és a Regionális Polgári Védelem helikoptere is bevetésre került.",
+  "content": [
+    "A tűz a délutáni órákban keletkezett a Pedregal térségében, ahol a lángok gyorsan terjedtek a sűrű növényzetben. A Madeira-i Regionális Polgári Védelem azonnal riasztotta a helyi egységeket.",
+    "A beavatkozásban részt vettek a Calheta-i Önkéntes Tűzoltók, a Ribeira Brava és Ponta do Sol Önkéntes Tűzoltói, valamint a Funchal-i Hivatásos Tűzoltók egységei.",
+    "A nehéz terepviszonyok és a tűz kiterjedése miatt a helikopteres támogatás is szükségessé vált, amely vízzel oltotta a lángokat a levegőből.",
+    "A hatóságok kiemelték, hogy a gyors reagálásnak köszönhetően sikerült megakadályozni a tűz továbbterjedését lakott területek felé.",
+    "A tűz okát egyelőre vizsgálják, de a nyári időszakban gyakori szárazság és a bozótos területek fokozott kockázatot jelentenek.",
+    "A lakosságot arra kérik, hogy fokozott figyelemmel járjanak el szabadtéri tevékenységeik során, különösen tűzgyújtás esetén."
+  ]
+},
+{
+  "id": 49,
+  "title": "Bozóttűz ütött ki Campanárioban – 17 tűzoltó vonult a helyszínre",
+  "date": "2025.08.18.",
+  "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/fireTruck.webp",
+  "excerpt": "Augusztus 18-án hajnalban tűz ütött ki a Campanário településhez tartozó Terreiros térségében. A nehezen megközelíthető területen 17 tűzoltó és hat jármű vett részt az oltásban, a lángokat reggel 6:10-re sikerült megfékezni.",
+  "content": [
+    "Campanário településen, a Terreiros nevű térségben augusztus 18-án, hajnali 4:50 körül bozóttűz keletkezett.",
+    "A riasztást követően a regionális mentési műveleti központ koordinálásával négy tűzoltóegység – Ribeira Brava és Ponta do Sol, Câmara de Lobos, valamint a funchali hivatásos tűzoltók – vonultak a helyszínre.",
+    "Összesen 17 tűzoltó és hat jármű vett részt az oltásban, amelyet a nehéz terepviszonyok miatt gyalogosan, kézi szerszámokkal kellett végrehajtani.",
+    "A Madeira-i Polgári Védelem tájékoztatása szerint a tűzoltók gyors és hatékony beavatkozása révén sikerült megakadályozni a tűz továbbterjedését.",
+    "A lángokat reggel 6:10-re sikerült teljesen megfékezni, a terület biztosítása és az utómunkálatok ezt követően is folytatódtak.",
+    "A helyszínen jelen volt a közrend fenntartásáért felelős PSP és az erdővédelmi hatóság is, akik segítették a művelet koordinálását."
+  ]
+},
+{
+  "id": 48,
+  "title": "Három luxemburgi turista megsérült egy éjszakai verekedésben Funchalban",
+  "date": "2025.08.08.",
+  "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/ruaDasFontesFight.webp",
+  "excerpt": "Augusztus 8-án hajnalban három fiatal turistát szállítottak kórházba, miután verekedés tört ki Funchal belvárosában, a Rua das Fontes környékén. A sérültek Luxemburgból érkeztek, és a helyszínen a mentők látták el őket.",
+  "content": [
+    "A verekedés péntek hajnalban, körülbelül 03:00-kor történt a Rua das Fontes nevű utcában, amely éjszakánként népszerű találkozóhely a fiatalok körében.",
+    "A három érintett férfi – 20, 25 és 26 évesek – láthatóan ittas állapotban volt, amikor egy másik, már a rendőrség által ismert csoport megtámadta őket, eddig tisztázatlan indítékból.",
+    "A helyszínre a Portugál Vöröskereszt két mentőautóval és nyolc segítővel érkezett, akik elsősegélyben részesítették a sérülteket.",
+    "A rendőrség gyorsan közbelépett, és véget vetett az agressziónak. A három turistát ezután a Dr. Nélio Mendonça Kórházba szállították.",
+    "Az egyik férfi súlyos orrsérülést szenvedett, a másik arci zúzódásokat és vágásokat, míg a harmadik enyhébb sérülésekkel megúszta az incidenst.",
+    "A rendőrség vizsgálatot indított az ügyben, hogy feltárja a verekedés pontos okait és körülményeit."
+  ]
+},
+{
+  "id": 47,
+  "title": "Halott halászt emeltek ki a tengerből Câmara de Lobos közelében",
+  "date": "2025.08.08.",
+  "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/falcaoDoMarTragedy.webp",
+  "excerpt": "Péntek hajnalban egy 50 éves portugál halász holttestét emelték ki a tengerből, mintegy 500 méterre Câmara de Lobos partjaitól. A férfi a 'Falcão do Mar' nevű halászhajó fedélzetéről esett a vízbe.",
+  "content": [
+    "Augusztus 8-án, pénteken hajnalban az illetékes hatóságokat 05:00 körül riasztották, miután egy testet észleltek a vízben, Câmara de Lobos déli részén.",
+    "A Funchal-i Mentőállomás egyik hajóját azonnal a helyszínre küldték, ahol megtalálták az 50 éves portugál férfi holttestét, aki a 'Falcão do Mar' nevű halászhajó legénységének egyik tagja volt.",
+    "A hajó a tengerben horgonyzott, körülbelül 500 méterre a parttól, amikor a férfi – eddig tisztázatlan körülmények között – a vízbe esett.",
+    "A testet a mentőcsapat kiemelte, majd Funchal kikötőjébe, a Cais 8-ra szállították, ahol a delegált egészségügyi szakember megállapította a halál beálltát.",
+    "A helyszínre három mentő és két tengerészeti rendőr érkezett, valamint a rendőrségi nyomozók is megkezdték az eset kivizsgálását.",
+    "A hatóságok feltételezése szerint a férfi halálát hirtelen egészségügyi probléma okozhatta, de a pontos okot a vizsgálat hivatott tisztázni."
+  ]
+},
+{
+  "id": 46,
+  "title": "Felhős kedd reggel Madeirán, délutánra javulás várható",
+  "date": "2025.08.05.",
+  "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/madeiraCloudyMorning.webp",
+  "excerpt": "Augusztus 5-én, kedden reggel Madeira és Porto Santo északi részein felhős idő várható, de délutánra csökken a felhőzet. A szél gyenge vagy mérsékelt, a hőmérséklet enyhén emelkedik.",
+  "content": [
+    "A Portugál Tenger- és Légköri Intézet (IPMA) előrejelzése szerint kedden reggel Madeira és Porto Santo északi részein felhős időre lehet számítani, míg a déli oldalon kevesebb felhő lesz.",
+    "A nap folyamán fokozatosan csökken a felhőzet, különösen délutánra, amikor már több napsütés is várható.",
+    "A szél északkeleti irányból fúj, gyenge vagy mérsékelt erősséggel (10–25 km/h).",
+    "A hőmérséklet enyhén emelkedik a magasabban fekvő területeken, a tenger vízhőmérséklete 23–24°C között alakul.",
+    "A tengeri hullámzás az északi partoknál 1–1,5 méteres, míg délen kevesebb mint 1 méteres hullámokra lehet számítani.",
+    "Az előrejelzés alapján érdemes rétegesen öltözködni, különösen a reggeli órákban, és figyelni a tenger állapotát, ha vízparti programot tervezünk."
+  ]
+},
+{
+  "id": 45,
+  "title": "Kihívást jelentő túrát szervez a Madeira-i Kemping Klub",
+  "date": "2025.08.04.",
+  "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/madeiraHikeAug9.webp",
+  "excerpt": "Augusztus 9-én, szombaton a Clube de Campismo da Madeira egy 12 km-es, ötórás, nehéz gyalogtúrát szervez a Boca da Corrida kilátótól egészen a Curral das Freiras templomáig.",
+  "content": [
+    "A túra a Boca da Corrida kilátónál kezdődik, Jardim da Serra településen, és olyan helyeken halad át, mint a Caminho Real da Encumeada, Boca dos Corgos, Relvinha, Pico Grande csúcsa, Fajã Escura, végül a Curral das Freiras templománál ér véget.",
+    "A túra hossza körülbelül 12 km, időtartama 5 óra, és nehézségi foka magas, így jó fizikai állapot ajánlott.",
+    "A jelentkezési határidő augusztus 8., péntek, 12:00. Jelentkezni lehet a clubecampismomadeira@gmail.com címen vagy a +351 969 591 687-es WhatsApp számon.",
+    "Az ár tartalmazza a Funchalból induló oda-vissza szállítást, valamint a balesetbiztosítást.",
+    "Fontos: ha valaki nem mondja le időben (előző nap 16:00-ig), akkor a szállítás és biztosítás díját ki kell fizetnie.",
+    "Ajánlott felszerelés: túrabakancs, időjárásnak megfelelő ruházat, esőkabát, sapka vagy kalap, túrabot, hátizsák élelemmel (szendvics, víz, gyümölcs, csokoládé, stb.), kulacs, valamint szemeteszsák a saját hulladékhoz."
+  ]
+},
+{
+  "id": 44,
+  "title": "Sanas egység mentett ki egy fürdőzőt Porto Monizban",
+  "date": "2025.08.03.",
+  "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/coastRescue.webp",
+  "excerpt": "Egy 26 éves spanyol férfit mentett ki a Sanas egysége Porto Monizban, miután a vízbe esett a Piscinas do Aquário környékén. A mentés során több szervezet működött együtt.",
+  "content": [
+    "Augusztus 3-án egy 26 éves spanyol állampolgárságú férfi esett a vízbe Porto Monizban, a Piscinas do Aquário környékén.",
+    "A Sanas mentőhajója gyorsan a helyszínre érkezett, és kimentette a fürdőzőt, majd a kikötőbe szállította, ahol már mentőautó várta.",
+    "A férfinál felső végtagi traumára utaló jeleket észleltek, ezért további orvosi ellátásra szorult.",
+    "A mentési műveletet a SANAS Madeira Műveleti és Irányító Központja koordinálta, együttműködésben a Regionális Polgári Védelemmel (IP-RAM) és a MRSC Funchal tengeri mentési központtal.",
+    "A gyors beavatkozásnak köszönhetően a fürdőző biztonságban jutott el az egészségügyi intézménybe."
+  ]
+},
+{
+  "id": 43,
+  "title": "Tűz ütött ki Prazeres térségében",
+  "date": "2025.08.03.",
+  "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/firePrazeres.webp",
+  "excerpt": "Vasárnap este tűz ütött ki Prazeres térségében, amelyhez helikopteres egységet is bevetettek. A lángokat kevesebb mint fél óra alatt sikerült megfékezni.",
+  "content": [
+    "Augusztus 3-án, vasárnap este tűz ütött ki Prazeres térségében, egy erdős területen.",
+    "A tüzet 18:48-kor észlelte a rendőrség járőrcsapata, majd azonnal értesítették a regionális katasztrófavédelmi központot.",
+    "A helyszínre 22 tűzoltót és 4 járművet vezényeltek ki, Calheta, Ribeira Brava, Ponta do Sol, valamint São Vicente és Porto Moniz tűzoltóságainak egységeiből.",
+    "A bevetés során helikopteres egységet is alkalmaztak, amely helitranszportált csapatot juttatott a helyszínre.",
+    "A tűz megfékezése 19:07-re megtörtént, személyi sérülésről nem érkezett jelentés.",
+    "A műveletben a Polícia Florestal is részt vett."
+  ]
+},
+{
+  "id": 42,
+  "title": "Felhős idő északon és Porto Santón",
+  "date": "2025.08.03.",
+  "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/cloudyMadeiraWeather.webp",
+  "excerpt": "Az IPMA előrejelzése szerint Madeira északi részén és Porto Santón erősen felhős idő várható, míg Funchalban csak átmeneti felhősödésre kell számítani. A hőmérséklet továbbra is nyárias.",
+  "content": [
+    "Az Instituto Português do Mar e da Atmosfera (IPMA) előrejelzése szerint Madeira északi részén, valamint Porto Santón a mai napon erősen felhős lesz az égbolt.",
+    "A szél északról fúj, gyenge vagy mérsékelt erősséggel, legfeljebb 30 km/h sebességgel.",
+    "Funchalban a reggeli órákban még kevés felhő lesz, de a délelőtt közepétől délután végéig időszakosan megnövekedhet a felhőzet.",
+    "A levegő hőmérséklete továbbra is meleg marad: Madeirán 22–27°C, Porto Santón 21–25°C között alakul.",
+    "A tengeren az északi parton 1,5–2 méteres hullámok várhatók, míg a déli parton 1 méternél alacsonyabbak lesznek.",
+    "A tenger vízhőmérséklete 23–24°C között mozog."
+  ]
+},
+{
+  "id": 41,
+  "title": "Fokozott erdőfelügyeletet rendelt el az IFCN a rali idejére",
+  "date": "2025.08.01.",
+  "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/ifcnRallyAlert.webp",
+  "excerpt": "Az IFCN megerősítette az erdőterületek felügyeletét a rali idejére, és felhívta a figyelmet a szabályok betartására. A hatóságok különösen a vadkempingezés és a tűzrakás veszélyeire figyelmeztetnek.",
+  "content": [
+    "Az Erdő és Természetvédelmi Intézet (IFCN) megerősítette az erdőterületek felügyeletét a rali idejére, mivel a hosszú hétvége alatt jelentősen megnőtt a látogatók száma a hegyvidéki térségekben.",
+    "Az intézet arra figyelmeztetett, hogy a közterületen történő kempingezés csak előzetes engedéllyel lehetséges, amelyet online lehet igényelni a Simplifica portálon keresztül.",
+    "A hatóságok kiemelten ellenőrzik a szabálytalan tűzrakásokat, mivel ezek súlyos tűzveszélyt jelentenek, különösen a nyári időszakban.",
+    "Az IFCN szerint továbbra is előfordulnak engedély nélküli kempingezések és tűzgyújtások, amelyek veszélyeztetik a természetet, a vagyonbiztonságot és az emberi életet.",
+    "Az intézet arra kéri a látogatókat, hogy tartsák be a környezetvédelmi előírásokat, és kizárólag kijelölt területeken tartózkodjanak.",
+    "A hír a madeirai sajtóban jelent meg."
+  ]
+}
+]}

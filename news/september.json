@@ -1,0 +1,32 @@
+{
+  "news": [
+{
+  "id": 54,
+  "title": "Rendkívüli hajójáratokat indít a Lobo Marinho szeptember 21-én",
+  "date": "2025.09.09.",
+  "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/loboMarinho.webp",
+  "excerpt": "A Porto Santo Line szeptember 21-én, vasárnap – az őszi napéjegyenlőség előestéjén – rendkívüli hajójáratokat indít a Lobo Marinho komppal, hogy több lehetőséget biztosítson az utasoknak Porto Santo meglátogatására.",
+  "content": [
+    "A Porto Santo Line szeptember 9-én bejelentette, hogy a Lobo Marinho komp rendkívüli járatokat közlekedtet szeptember 21-én, vasárnap, az őszi napéjegyenlőség előestéjén.",
+    "A kezdeményezés célja, hogy alternatív lehetőségeket kínáljon a lakosságnak és a turistáknak Porto Santo szigetének meglátogatására, különösen a szezon végéhez közeledve.",
+    "Az aznapi menetrend a következőképpen alakul: Funchalból Porto Santo felé 08:00-kor és 16:30-kor indulnak járatok (utóbbi rendkívüli), míg Porto Santo-ból Funchalba 13:00-kor (rendkívüli) és 20:00-kor indulnak vissza a hajók.",
+    "A társaság arra kéri az érdeklődőket, hogy további információért forduljanak a Porto Santo Line ügyfélszolgálatához telefonon, WhatsAppon vagy e-mailben, hétfőtől vasárnapig 9:00 és 19:00 óra között (ünnepnapokon zárva).",
+    "A rendkívüli járatok lehetőséget teremtenek arra, hogy a szigetlakók és látogatók egyaránt élvezhessék Porto Santo természeti szépségeit és nyugodt hangulatát az őszi időszak kezdetén."
+  ]
+},
+{
+  "id": 53,
+  "title": "A Quercus aggodalmát fejezte ki a Fanal természetvédelmi terület állapota miatt",
+  "date": "2025.09.09.",
+  "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/fanalPreservation.webp",
+  "excerpt": "A Quercus Madeira regionális szervezete szerint a Fanal természetvédelmi területet súlyos környezeti terhelés éri, amely hosszú távon veszélyezteti a térség ökológiai egyensúlyát. A szervezet sürgős intézkedéseket sürget a terület megóvása érdekében.",
+  "content": [
+    "A Quercus környezetvédelmi szervezet Madeira regionális egysége szeptember 9-én közleményben hívta fel a figyelmet a Fanal természetvédelmi terület romló állapotára, amelyet a túlzott látogatószám és a szabadon legelő állatok okozta károk súlyosbítanak.",
+    "A szervezet szerint a több száz éves őshonos babérfák fiatal hajtásait rendszeresen károsítják a szabadon legelő szarvasmarhák, ami akadályozza az erdő természetes megújulását és veszélyezteti a Laurisilva-erdő ökológiai egyensúlyát.",
+    "A Quercus bírálta az illetékes hatóságokat – különösen az Erdők és Természetvédelmi Intézetet (IFCN) –, amiért nem korlátozzák az állatok hozzáférését a védett területhez, és nem tesznek lépéseket a legeltetés megszüntetésére.",
+    "A közlemény szerint a látogatók számának növekedése túlterheli a meglévő parkolókat, és a járművek gyakran az út mentén, szabálytalanul állnak meg, ami további nyomást gyakorol a talajra.",
+    "A turisták sokszor kijelölt ösvények nélkül járják be a területet, gyakran a babérfákra mászva vagy a gyökérzónákban tartózkodva, ami a talaj tömörödéséhez, a víz beszivárgásának csökkenéséhez és a növényzet pusztulásához vezet.",
+    "A Quercus felszólította az IFCN-t, hogy határozza meg a terület látogatói kapacitását, vezessen be ellenőrzött hozzáférést, és sürgősen állítsa le a legeltetést, hogy megőrizhető legyen a Fanal természeti értéke a jövő generációk számára."
+  ]
+}
+]}
