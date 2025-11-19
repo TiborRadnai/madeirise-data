@@ -13,8 +13,8 @@
         "en": "Trail only passable between Pico do Areeiro and Pedra Rija Belvedere (km 1.2).",
         "de": "Weg nur zwischen Pico do Areeiro und Pedra Rija Belvedere begehbar (km 1,2)."
     },
-    "mapUrl": "/assets/maps/hiking/pr1-3.jpg",
-    "imageUrl": "/assets/images/hiking/pr1.webp",
+    "mapUrl": "",
+    "imageUrl": "",
     "coords": [
         [32.735, -16.928],
         [32.756, -16.934]
