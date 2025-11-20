@@ -305,8 +305,12 @@
         "en": "",
         "de": ""
       },
-      "mapUrl": "/assets/maps/hiking/pr1-3.jpg",
-      "imageUrl": "/assets/images/hiking/pr1.webp"
+      "mapUrl": "/assets/images/pr7-card.jpg",
+      "imageUrl": "/assets/images/pr7-modal.jpg",
+      "geojsonPaths": [
+          "/assets/geojson/pr7.json",
+          "/assets/geojson/pr7-variant.json"
+        ]
     },
                                     
     {
