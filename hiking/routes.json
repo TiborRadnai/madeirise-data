@@ -33,8 +33,12 @@
         "en": "",
         "de": ""
       },
-      "mapUrl": "/assets/maps/hiking/pr1-3.jpg",
-      "imageUrl": "/assets/images/hiking/pr1.webp"
+    "mapUrl": "/assets/images/pr1.1-card.jpg",
+    "imageUrl": "/assets/images/pr1.1-modal.jpg",
+    "geojsonPaths": [
+        "/assets/geojson/pr1.1.json",
+        "/assets/geojson/pr1.1-variant.json"
+      ]
     },
 
     {
@@ -49,8 +53,12 @@
         "en": "",
         "de": ""
       },
-      "mapUrl": "/assets/maps/hiking/pr1-3.jpg",
-      "imageUrl": "/assets/images/hiking/pr1.webp"
+    "mapUrl": "/assets/images/pr1.2-card.jpg",
+    "imageUrl": "/assets/images/pr1.2-modal.jpg",
+    "geojsonPaths": [
+        "/assets/geojson/pr1.2.json",
+        "/assets/geojson/pr1.2-variant.json"
+      ]
     },
     
     {
@@ -65,8 +73,12 @@
         "en": "",
         "de": ""
       },
-      "mapUrl": "/assets/maps/hiking/pr1-3.jpg",
-      "imageUrl": "/assets/images/hiking/pr1.webp"
+    "mapUrl": "/assets/images/pr1.3-card.jpg",
+    "imageUrl": "/assets/images/pr1.3-modal.jpg",
+    "geojsonPaths": [
+        "/assets/geojson/pr1.3.json",
+        "/assets/geojson/pr1.3-variant.json"
+      ]
     },
         
     {
@@ -81,8 +93,12 @@
         "en": "This trail is only accessible from Lombo do Urzal up to kilometer 6.2.",
         "de": "Dieser Wanderweg ist nur vom Lombo do Urzal bis zum Kilometer 6,2 begehbar."
       },
-      "mapUrl": "/assets/maps/hiking/pr1-3.jpg",
-      "imageUrl": "/assets/images/hiking/pr1.webp"
+    "mapUrl": "/assets/images/pr2-card.jpg",
+    "imageUrl": "/assets/images/pr2-modal.jpg",
+    "geojsonPaths": [
+        "/assets/geojson/pr2.json",
+        "/assets/geojson/pr2-variant.json"
+      ]
     },
 
     {
@@ -97,8 +113,12 @@
         "en": "",
         "de": ""
       },
-      "mapUrl": "/assets/maps/hiking/pr1-3.jpg",
-      "imageUrl": "/assets/images/hiking/pr1.webp"
+    "mapUrl": "/assets/images/pr3-card.jpg",
+    "imageUrl": "/assets/images/pr3-modal.jpg",
+    "geojsonPaths": [
+        "/assets/geojson/pr3.json",
+        "/assets/geojson/pr3-variant.json"
+      ]
     },
     
     {
@@ -113,8 +133,12 @@
         "en": "",
         "de": ""
       },
-      "mapUrl": "/assets/maps/hiking/pr1-3.jpg",
-      "imageUrl": "/assets/images/hiking/pr1.webp"
+    "mapUrl": "/assets/images/pr3.1-card.jpg",
+    "imageUrl": "/assets/images/pr3.1-modal.jpg",
+    "geojsonPaths": [
+        "/assets/geojson/pr3.1.json",
+        "/assets/geojson/pr3.1-variant.json"
+      ]
     },
         
     {
@@ -129,8 +153,12 @@
         "en": "",
         "de": ""
       },
-      "mapUrl": "/assets/maps/hiking/pr1-3.jpg",
-      "imageUrl": "/assets/images/hiking/pr1.webp"
+    "mapUrl": "/assets/images/pr4-card.jpg",
+    "imageUrl": "/assets/images/pr4-modal.jpg",
+    "geojsonPaths": [
+        "/assets/geojson/pr4.json",
+        "/assets/geojson/pr4-variant.json"
+      ]
     },
 
     {
@@ -145,8 +173,12 @@
         "en": "",
         "de": ""
       },
-      "mapUrl": "/assets/maps/hiking/pr1-3.jpg",
-      "imageUrl": "/assets/images/hiking/pr1.webp"
+    "mapUrl": "/assets/images/pr5-card.jpg",
+    "imageUrl": "/assets/images/pr5-modal.jpg",
+    "geojsonPaths": [
+        "/assets/geojson/pr5.json",
+        "/assets/geojson/pr5-variant.json"
+      ]
     },
     
     {
@@ -161,8 +193,12 @@
         "en": "The Levada das 25 Fontes is one‑way. Outbound (Rabaçal → 25 Fontes): follow the classic trail along the Levada. Return (25 Fontes → Rabaçal): use the alternative route, the so‑called “Bypass“.",
         "de": "Die Levada das 25 Fontes ist als Einbahnweg geregelt. Hinweg (Rabaçal → 25 Quellen): auf dem klassischen Weg entlang der Levada. Rückweg (25 Quellen → Rabaçal): über die alternative Route, den sogenannten „Bypass“."
       },
-      "mapUrl": "/assets/maps/hiking/pr1-3.jpg",
-      "imageUrl": "/assets/images/hiking/pr1.webp"
+    "mapUrl": "/assets/images/pr6-card.jpg",
+    "imageUrl": "/assets/images/pr6-modal.jpg",
+    "geojsonPaths": [
+        "/assets/geojson/pr6.json",
+        "/assets/geojson/pr6-variant.json"
+      ]
     },
     
     {
@@ -177,8 +213,12 @@
         "en": "",
         "de": ""
       },
-      "mapUrl": "/assets/maps/hiking/pr1-3.jpg",
-      "imageUrl": "/assets/images/hiking/pr1.webp"
+    "mapUrl": "/assets/images/pr6.1-card.jpg",
+    "imageUrl": "/assets/images/pr6.1-modal.jpg",
+    "geojsonPaths": [
+        "/assets/geojson/pr6.1.json",
+        "/assets/geojson/pr6.1-variant.json"
+      ]
     },
         
     {
@@ -193,8 +233,12 @@
         "en": "",
         "de": ""
       },
-      "mapUrl": "/assets/maps/hiking/pr1-3.jpg",
-      "imageUrl": "/assets/images/hiking/pr1.webp"
+    "mapUrl": "/assets/images/pr6.2-card.jpg",
+    "imageUrl": "/assets/images/pr6.2-modal.jpg",
+    "geojsonPaths": [
+        "/assets/geojson/pr6.2.json",
+        "/assets/geojson/pr6.2-variant.json"
+      ]
     },
             
     {
@@ -209,8 +253,12 @@
         "en": "",
         "de": ""
       },
-      "mapUrl": "/assets/maps/hiking/pr1-3.jpg",
-      "imageUrl": "/assets/images/hiking/pr1.webp"
+    "mapUrl": "/assets/images/pr6.3-card.jpg",
+    "imageUrl": "/assets/images/pr6.3-modal.jpg",
+    "geojsonPaths": [
+        "/assets/geojson/pr6.3.json",
+        "/assets/geojson/pr6.3-variant.json"
+      ]
     },
                 
     {
@@ -225,8 +273,12 @@
         "en": "",
         "de": ""
       },
-      "mapUrl": "/assets/maps/hiking/pr1-3.jpg",
-      "imageUrl": "/assets/images/hiking/pr1.webp"
+    "mapUrl": "/assets/images/pr6.4-card.jpg",
+    "imageUrl": "/assets/images/pr6.4-modal.jpg",
+    "geojsonPaths": [
+        "/assets/geojson/pr6.4.json",
+        "/assets/geojson/pr6.4-variant.json"
+      ]
     },
                     
     {
@@ -241,8 +293,12 @@
         "en": "",
         "de": ""
       },
-      "mapUrl": "/assets/maps/hiking/pr1-3.jpg",
-      "imageUrl": "/assets/images/hiking/pr1.webp"
+    "mapUrl": "/assets/images/pr6.5-card.jpg",
+    "imageUrl": "/assets/images/pr6.5-modal.jpg",
+    "geojsonPaths": [
+        "/assets/geojson/pr6.5.json",
+        "/assets/geojson/pr6.5-variant.json"
+      ]
     },
                         
     {
@@ -257,8 +313,12 @@
         "en": "",
         "de": ""
       },
-      "mapUrl": "/assets/maps/hiking/pr1-3.jpg",
-      "imageUrl": "/assets/images/hiking/pr1.webp"
+    "mapUrl": "/assets/images/pr6.6-card.jpg",
+    "imageUrl": "/assets/images/pr6.6-modal.jpg",
+    "geojsonPaths": [
+        "/assets/geojson/pr6.6.json",
+        "/assets/geojson/pr6.6-variant.json"
+      ]
     },
                             
     {
@@ -273,8 +333,12 @@
         "en": "",
         "de": ""
       },
-      "mapUrl": "/assets/maps/hiking/pr1-3.jpg",
-      "imageUrl": "/assets/images/hiking/pr1.webp"
+    "mapUrl": "/assets/images/pr6.7-card.jpg",
+    "imageUrl": "/assets/images/pr6.7-modal.jpg",
+    "geojsonPaths": [
+        "/assets/geojson/pr6.7.json",
+        "/assets/geojson/pr6.7-variant.json"
+      ]
     },
                                 
     {
@@ -289,8 +353,12 @@
         "en": "",
         "de": ""
       },
-      "mapUrl": "/assets/maps/hiking/pr1-3.jpg",
-      "imageUrl": "/assets/images/hiking/pr1.webp"
+    "mapUrl": "/assets/images/pr6.8-card.jpg",
+    "imageUrl": "/assets/images/pr6.8-modal.jpg",
+    "geojsonPaths": [
+        "/assets/geojson/pr6.8.json",
+        "/assets/geojson/pr6.8-variant.json"
+      ]
     },
                                     
     {
