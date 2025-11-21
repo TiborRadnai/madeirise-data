@@ -393,8 +393,12 @@
         "en": "",
         "de": ""
       },
-      "mapUrl": "/assets/maps/hiking/pr1-3.jpg",
-      "imageUrl": "/assets/images/hiking/pr1.webp"
+      "mapUrl": "/assets/images/pr8-card.jpg",
+      "imageUrl": "/assets/images/pr8-modal.jpg",
+      "geojsonPaths": [
+          "/assets/geojson/pr8.json",
+          "/assets/geojson/pr8-variant.json"
+        ]
     },
                                         
     {
@@ -409,8 +413,12 @@
         "en": "Attention! The section between Caldeirão Verde and Caldeirão do Inferno is CLOSED!",
         "de": "Achtung! Der Abschnitt zwischen Caldeirão Verde und Caldeirão do Inferno ist GESCHLOSSEN!"
       },
-      "mapUrl": "/assets/maps/hiking/pr1-3.jpg",
-      "imageUrl": "/assets/images/hiking/pr1.webp"
+      "mapUrl": "/assets/images/pr9-card.jpg",
+      "imageUrl": "/assets/images/pr9-modal.jpg",
+      "geojsonPaths": [
+          "/assets/geojson/pr9.json",
+          "/assets/geojson/pr9-variant.json"
+        ]
     },
                                         
     {
@@ -425,8 +433,12 @@
         "en": "",
         "de": ""
       },
-      "mapUrl": "/assets/maps/hiking/pr1-3.jpg",
-      "imageUrl": "/assets/images/hiking/pr1.webp"
+      "mapUrl": "/assets/images/pr9.1-card.jpg",
+      "imageUrl": "/assets/images/pr9.1-modal.jpg",
+      "geojsonPaths": [
+          "/assets/geojson/pr9.1.json",
+          "/assets/geojson/pr9.1-variant.json"
+        ]
     },
                                             
     {
@@ -441,8 +453,12 @@
         "en": "",
         "de": ""
       },
-      "mapUrl": "/assets/maps/hiking/pr1-3.jpg",
-      "imageUrl": "/assets/images/hiking/pr1.webp"
+      "mapUrl": "/assets/images/pr10-card.jpg",
+      "imageUrl": "/assets/images/pr10-modal.jpg",
+      "geojsonPaths": [
+          "/assets/geojson/pr10.json",
+          "/assets/geojson/pr10-variant.json"
+        ]
     },
                                                 
     {
@@ -457,8 +473,12 @@
         "en": "",
         "de": ""
       },
-      "mapUrl": "/assets/maps/hiking/pr1-3.jpg",
-      "imageUrl": "/assets/images/hiking/pr1.webp"
+      "mapUrl": "/assets/images/pr11-card.jpg",
+      "imageUrl": "/assets/images/pr11-modal.jpg",
+      "geojsonPaths": [
+          "/assets/geojson/pr11.json",
+          "/assets/geojson/pr11-variant.json"
+        ]
     },
                                                     
     {
@@ -473,8 +493,12 @@
         "en": "This trail is only accessible from Boca da Corrida up to kilometer 3.5.",
         "de": "Dieser Wanderweg ist nur von Boca da Corrida bis zum Kilometer 3,5 begehbar."
       },
-      "mapUrl": "/assets/maps/hiking/pr1-3.jpg",
-      "imageUrl": "/assets/images/hiking/pr1.webp"
+      "mapUrl": "/assets/images/pr12-card.jpg",
+      "imageUrl": "/assets/images/pr12-modal.jpg",
+      "geojsonPaths": [
+          "/assets/geojson/pr12.json",
+          "/assets/geojson/pr12-variant.json"
+        ]
     },
                                                     
     {
@@ -489,8 +513,12 @@
         "en": "",
         "de": ""
       },
-      "mapUrl": "/assets/maps/hiking/pr1-3.jpg",
-      "imageUrl": "/assets/images/hiking/pr1.webp"
+      "mapUrl": "/assets/images/pr13-card.jpg",
+      "imageUrl": "/assets/images/pr13-modal.jpg",
+      "geojsonPaths": [
+          "/assets/geojson/pr13.json",
+          "/assets/geojson/pr13-variant.json"
+        ]
     },
                                                         
     {
@@ -505,8 +533,12 @@
         "en": "",
         "de": ""
       },
-      "mapUrl": "/assets/maps/hiking/pr1-3.jpg",
-      "imageUrl": "/assets/images/hiking/pr1.webp"
+      "mapUrl": "/assets/images/pr13.1-card.jpg",
+      "imageUrl": "/assets/images/pr13.1-modal.jpg",
+      "geojsonPaths": [
+          "/assets/geojson/pr13.1.json",
+          "/assets/geojson/pr13.1-variant.json"
+        ]
     },
                                                             
     {
@@ -521,8 +553,12 @@
         "en": "",
         "de": ""
       },
-      "mapUrl": "/assets/maps/hiking/pr1-3.jpg",
-      "imageUrl": "/assets/images/hiking/pr1.webp"
+      "mapUrl": "/assets/images/pr14-card.jpg",
+      "imageUrl": "/assets/images/pr14-modal.jpg",
+      "geojsonPaths": [
+          "/assets/geojson/pr14.json",
+          "/assets/geojson/pr14-variant.json"
+        ]
     },
                                                                 
     {
@@ -537,8 +573,12 @@
         "en": "",
         "de": ""
       },
-      "mapUrl": "/assets/maps/hiking/pr1-3.jpg",
-      "imageUrl": "/assets/images/hiking/pr1.webp"
+      "mapUrl": "/assets/images/pr15-card.jpg",
+      "imageUrl": "/assets/images/pr15-modal.jpg",
+      "geojsonPaths": [
+          "/assets/geojson/pr15.json",
+          "/assets/geojson/pr15-variant.json"
+        ]
     },
                                                                     
     {
@@ -553,8 +593,12 @@
         "en": "",
         "de": ""
       },
-      "mapUrl": "/assets/maps/hiking/pr1-3.jpg",
-      "imageUrl": "/assets/images/hiking/pr1.webp"
+      "mapUrl": "/assets/images/pr16-card.jpg",
+      "imageUrl": "/assets/images/pr16-modal.jpg",
+      "geojsonPaths": [
+          "/assets/geojson/pr16.json",
+          "/assets/geojson/pr16-variant.json"
+        ]
     },
                                                                         
     {
@@ -569,8 +613,12 @@
         "en": "The trail is accessible only between Encumeada and Bica da Cana, passing Folhadal–Caramujo. Other sections are currently not usable.",
         "de": "Der Wanderweg ist nur zwischen Encumeada und Bica da Cana über Folhadal–Caramujo begehbar. Andere Abschnitte sind derzeit nicht nutzbar."
       },
-      "mapUrl": "/assets/maps/hiking/pr1-3.jpg",
-      "imageUrl": "/assets/images/hiking/pr1.webp"
+      "mapUrl": "/assets/images/pr17-card.jpg",
+      "imageUrl": "/assets/images/pr17-modal.jpg",
+      "geojsonPaths": [
+          "/assets/geojson/pr17.json",
+          "/assets/geojson/pr17v-variant.json"
+        ]
     },
                                                                         
     {
@@ -585,8 +633,12 @@
         "en": "",
         "de": ""
       },
-      "mapUrl": "/assets/maps/hiking/pr1-3.jpg",
-      "imageUrl": "/assets/images/hiking/pr1.webp"
+      "mapUrl": "/assets/images/pr18-card.jpg",
+      "imageUrl": "/assets/images/pr18-modal.jpg",
+      "geojsonPaths": [
+          "/assets/geojson/pr18.json",
+          "/assets/geojson/pr18-variant.json"
+        ]
     },
                                                                             
     {
@@ -601,8 +653,12 @@
         "en": "",
         "de": ""
       },
-      "mapUrl": "/assets/maps/hiking/pr1-3.jpg",
-      "imageUrl": "/assets/images/hiking/pr1.webp"
+      "mapUrl": "/assets/images/pr19-card.jpg",
+      "imageUrl": "/assets/images/pr19-modal.jpg",
+      "geojsonPaths": [
+          "/assets/geojson/pr19.json",
+          "/assets/geojson/pr19-variant.json"
+        ]
     },
                                                                                 
     {
@@ -617,8 +673,12 @@
         "en": "",
         "de": ""
       },
-      "mapUrl": "/assets/maps/hiking/pr1-3.jpg",
-      "imageUrl": "/assets/images/hiking/pr1.webp"
+      "mapUrl": "/assets/images/pr20-card.jpg",
+      "imageUrl": "/assets/images/pr20-modal.jpg",
+      "geojsonPaths": [
+          "/assets/geojson/pr20.json",
+          "/assets/geojson/pr20-variant.json"
+        ]
     },
                                                                                     
     {
@@ -633,8 +693,12 @@
         "en": "",
         "de": ""
       },
-      "mapUrl": "/assets/maps/hiking/pr1-3.jpg",
-      "imageUrl": "/assets/images/hiking/pr1.webp"
+      "mapUrl": "/assets/images/pr21-card.jpg",
+      "imageUrl": "/assets/images/pr21-modal.jpg",
+      "geojsonPaths": [
+          "/assets/geojson/pr21.json",
+          "/assets/geojson/pr21-variant.json"
+        ]
     },
                                                                                         
     {
@@ -649,8 +713,12 @@
         "en": "",
         "de": ""
       },
-      "mapUrl": "/assets/maps/hiking/pr1-3.jpg",
-      "imageUrl": "/assets/images/hiking/pr1.webp"
+      "mapUrl": "/assets/images/pr22-card.jpg",
+      "imageUrl": "/assets/images/pr22-modal.jpg",
+      "geojsonPaths": [
+          "/assets/geojson/pr22.json",
+          "/assets/geojson/pr22-variant.json"
+        ]
     },
                                                                                             
     {
@@ -665,8 +733,12 @@
         "en": "",
         "de": ""
       },
-      "mapUrl": "/assets/maps/hiking/pr1-3.jpg",
-      "imageUrl": "/assets/images/hiking/pr1.webp"
+      "mapUrl": "/assets/images/pr23-card.jpg",
+      "imageUrl": "/assets/images/pr23-modal.jpg",
+      "geojsonPaths": [
+          "/assets/geojson/pr23.json",
+          "/assets/geojson/pr23-variant.json"
+        ]
     },
                                                                                                 
     {
@@ -681,8 +753,12 @@
         "en": "",
         "de": ""
       },
-      "mapUrl": "/assets/maps/hiking/pr1-3.jpg",
-      "imageUrl": "/assets/images/hiking/pr1.webp"
+      "mapUrl": "/assets/images/pr27-card.jpg",
+      "imageUrl": "/assets/images/pr27-modal.jpg",
+      "geojsonPaths": [
+          "/assets/geojson/pr27.json",
+          "/assets/geojson/pr27-variant.json"
+        ]
     },
                                                                                                     
     {
@@ -697,8 +773,12 @@
         "en": "",
         "de": ""
       },
-      "mapUrl": "/assets/maps/hiking/pr1-3.jpg",
-      "imageUrl": "/assets/images/hiking/pr1.webp"
+      "mapUrl": "/assets/images/pr28-card.jpg",
+      "imageUrl": "/assets/images/pr28-modal.jpg",
+      "geojsonPaths": [
+          "/assets/geojson/pr28.json",
+          "/assets/geojson/pr28-variant.json"
+        ]
     },
                                                                                                         
     {
@@ -713,8 +793,12 @@
         "en": "",
         "de": ""
       },
-      "mapUrl": "/assets/maps/hiking/pr1-3.jpg",
-      "imageUrl": "/assets/images/hiking/pr1.webp"
+      "mapUrl": "/assets/images/pspr1-card.jpg",
+      "imageUrl": "/assets/images/pspr1-modal.jpg",
+      "geojsonPaths": [
+          "/assets/geojson/pspr1.json",
+          "/assets/geojson/pspr1-variant.json"
+        ]
     },
                                                                                                             
     {
@@ -729,8 +813,12 @@
         "en": "",
         "de": ""
       },
-      "mapUrl": "/assets/maps/hiking/pr1-3.jpg",
-      "imageUrl": "/assets/images/hiking/pr1.webp"
+      "mapUrl": "/assets/imagespspr2-card.jpg",
+      "imageUrl": "/assets/images/pspr2-modal.jpg",
+      "geojsonPaths": [
+          "/assets/geojson/pspr2.json",
+          "/assets/geojson/pspr2-variant.json"
+        ]
     },
                                                                                                                 
     {
@@ -745,8 +833,12 @@
         "en": "",
         "de": ""
       },
-      "mapUrl": "/assets/maps/hiking/pr1-3.jpg",
-      "imageUrl": "/assets/images/hiking/pr1.webp"
+      "mapUrl": "/assets/images/pspr3-card.jpg",
+      "imageUrl": "/assets/images/pspr3-modal.jpg",
+      "geojsonPaths": [
+          "/assets/geojson/pspr3.json",
+          "/assets/geojson/pspr3-variant.json"
+        ]
     }
   ]
 }
