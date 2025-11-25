@@ -6,8 +6,8 @@
     "region": "Santana",
     "status": "partial",
     "name": {
-        "en": "Vereda do Pico do Areeiro (Pico do Areeiro–Pico Ruivo)",
-        "de": "Vereda do Pico do Areeiro (Pico do Areeiro–Pico Ruivo)"
+        "en": "PR 1 – Vereda do Pico do Areeiro",
+        "de": "PR 1 – Vereda do Pico do Areeiro"
     },
     "notes": {
         "en": "Trail only passable between Pico do Areeiro and Pedra Rija Belvedere (km 1.2).",
@@ -18,7 +18,17 @@
     "geojsonPaths": [
         "/assets/geojson/pr1.json",
         "/assets/geojson/pr1-variant.json"
-      ]
+      ],
+    "startName": "Pico do Areeiro",
+    "endName": "Pico Ruivo",
+    "length_km": 6.1,
+    "duration": "3h 30m",
+    "maxElevation": 1862,
+    "minElevation": 1505,
+      "difficulty": {
+        "en": "Hard",
+        "de": "Schwierig"
+      }  
     },
 
     {
@@ -26,8 +36,8 @@
       "region": "Santana",
       "status": "open",
       "name": {
-        "en": "Vereda da Ilha (Pico Ruivo - Ilha)",
-        "de": "Vereda da Ilha (Pico Ruivo - Ilha)"
+        "en": "PR 1.1 – Vereda da Ilha",
+        "de": "PR 1.1 – Vereda da Ilha"
       },
       "notes": {
         "en": "",
@@ -38,7 +48,17 @@
     "geojsonPaths": [
         "/assets/geojson/pr1.1.json",
         "/assets/geojson/pr1.1-variant.json"
-      ]
+      ],
+    "startName": "Pico Ruivo",
+    "endName": "Ilha",
+    "length_km": 8.2,
+    "duration": "3h 30m",
+    "maxElevation": 1862,
+    "minElevation": 1592,
+      "difficulty": {
+        "en": "Hard",
+        "de": "Schwierig"
+      }        
     },
 
     {
@@ -46,8 +66,8 @@
       "region": "Santana",
       "status": "open",
       "name": {
-        "en": "Vereda do Pico Ruivo (Achada do Teixeira - Pico Ruivo)",
-        "de": "Vereda do Pico Ruivo (Achada do Teixeira - Pico Ruivo)"
+        "en": "PR 1.2 – Vereda do Pico Ruivo",
+        "de": "PR 1.2 – Vereda do Pico Ruivo"
       },
       "notes": {
         "en": "",
@@ -58,7 +78,17 @@
     "geojsonPaths": [
         "/assets/geojson/pr1.2.json",
         "/assets/geojson/pr1.2-variant.json"
-      ]
+      ],
+    "startName": "Achada do Teixeira",
+    "endName": "Pico Ruivo",
+    "length_km": 2.8,
+    "duration": "1h 30m",
+    "maxElevation": 1862,
+    "minElevation": 1592,
+      "difficulty": {
+        "en": "Medium",
+        "de": "Mittel"
+      }        
     },
     
     {
@@ -66,8 +96,8 @@
       "region": "Ribeira Brava",
       "status": "closed",
       "name": {
-        "en": "Vereda da Encumeada (Pico Ruivo - Encumeada)",
-        "de": "Vereda da Encumeada (Pico Ruivo - Encumeada)"
+        "en": "PR 1.3 – Vereda da Encumeada",
+        "de": "PR 1.3 – Vereda da Encumeada"
       },
       "notes": {
         "en": "",
@@ -78,7 +108,17 @@
     "geojsonPaths": [
         "/assets/geojson/pr1.3.json",
         "/assets/geojson/pr1.3-variant.json"
-      ]
+      ],
+    "startName": "Achada do Teixeira",
+    "endName": "Boca da Encumeada",
+    "length_km": 11.2,
+    "duration": "5h",
+    "maxElevation": 1764,
+    "minElevation": 1009,
+      "difficulty": {
+        "en": "Hard",
+        "de": "Schwierig"
+      }        
     },
         
     {
@@ -86,8 +126,8 @@
       "region": "Câmara de Lobos",
       "status": "partial",
       "name": {
-        "en": "Vereda do Urzal ( Curral das Freiras - Boaventura) ",
-        "de": "Vereda do Urzal ( Curral das Freiras - Boaventura) "
+        "en": "PR 2 – Vereda do Urzal",
+        "de": "PR 2 – Vereda do Urzal"
       },
       "notes": {
         "en": "This trail is only accessible from Lombo do Urzal up to kilometer 6.2.",
@@ -98,7 +138,17 @@
     "geojsonPaths": [
         "/assets/geojson/pr2.json",
         "/assets/geojson/pr2-variant.json"
-      ]
+      ],
+    "startName": "Curral das Freiras",
+    "endName": "Lombo do Urzal",
+    "length_km": 10.3,
+    "duration": "4h 30m",
+    "maxElevation": 1450,
+    "minElevation": 519,
+      "difficulty": {
+        "en": "Medium-Hard",
+        "de": "Mittel-Schwierig"
+      }        
     },
 
     {
@@ -106,8 +156,8 @@
       "region": "Funchal",
       "status": "open",
       "name": {
-        "en": "Vereda do Burro (Pico do Areeiro - Ribeira das Cales)",
-        "de": "Vereda do Burro (Pico do Areeiro - Ribeira das Cales)"
+        "en": "PR 3 – Vereda do Burro",
+        "de": "PR 3 – Vereda do Burro"
       },
       "notes": {
         "en": "",
@@ -118,7 +168,17 @@
     "geojsonPaths": [
         "/assets/geojson/pr3.json",
         "/assets/geojson/pr3-variant.json"
-      ]
+      ],
+    "startName": "Pico do Areeiro",
+    "endName": "Ribeira das Cales",
+    "length_km": 7.2,
+    "duration": "2h 40m",
+    "maxElevation": 1805,
+    "minElevation": 1130,
+      "difficulty": {
+        "en": "Medium",
+        "de": "Mittel"
+      }        
     },
     
     {
@@ -126,8 +186,8 @@
       "region": "Funchal",
       "status": "open",
       "name": {
-        "en": "Caminho Real do Monte (Ribeira das Cales - Monte)",
-        "de": "Caminho Real do Monte (Ribeira das Cales - Monte)"
+        "en": "PR 3.1 – Caminho Real do Monte",
+        "de": "PR 3.1 – Caminho Real do Monte"
       },
       "notes": {
         "en": "",
@@ -138,7 +198,17 @@
     "geojsonPaths": [
         "/assets/geojson/pr3.1.json",
         "/assets/geojson/pr3.1-variant.json"
-      ]
+      ],
+    "startName": "Ribeira das Cales",
+    "endName": "Monte",
+    "length_km": 4.2,
+    "duration": "2h",
+    "maxElevation": 1130,
+    "minElevation": 550,
+      "difficulty": {
+        "en": "Easy-Medium",
+        "de": "Leicht-Mittel"
+      }        
     },
         
     {
@@ -146,8 +216,8 @@
       "region": "Funchal",
       "status": "partial",
       "name": {
-        "en": "Levada do Barreiro (Poço da Neve - Casa do Barreiro)",
-        "de": "Levada do Barreiro (Poço da Neve - Casa do Barreiro)"
+        "en": "PR 4 – Levada do Barreiro",
+        "de": "PR 4 – Levada do Barreiro"
       },
       "notes": {
         "en": "",
@@ -158,7 +228,17 @@
     "geojsonPaths": [
         "/assets/geojson/pr4.json",
         "/assets/geojson/pr4-variant.json"
-      ]
+      ],
+    "startName": "Poço da Neve",
+    "endName": "Casa do Barreiro",
+    "length_km": 6.7,
+    "duration": "2h 30m",
+    "maxElevation": 0,
+    "minElevation": 0,
+      "difficulty": {
+        "en": "Easy-Medium",
+        "de": "Leicht-Mittel"
+      }        
     },
 
     {
@@ -166,8 +246,8 @@
       "region": "Machico",
       "status": "open",
       "name": {
-        "en": "Vereda das Funduras (Portela - Maroços)",
-        "de": "Vereda das Funduras (Portela - Maroços)"
+        "en": "PR 5 – Vereda das Funduras",
+        "de": "PR 5 – Vereda das Funduras"
       },
       "notes": {
         "en": "",
@@ -178,7 +258,17 @@
     "geojsonPaths": [
         "/assets/geojson/pr5.json",
         "/assets/geojson/pr5-variant.json"
-      ]
+      ],
+    "startName": "Portela",
+    "endName": "Maroços",
+    "length_km": 8.7,
+    "duration": "3h",
+    "maxElevation": 624,
+    "minElevation": 186,
+      "difficulty": {
+        "en": "Medium",
+        "de": "Mittel"
+      }        
     },
     
     {
@@ -186,8 +276,8 @@
       "region": "Calheta",
       "status": "open",
       "name": {
-        "en": "Levada das 25 fontes (Rabaçal - 25 Fontes)",
-        "de": "Levada das 25 fontes (Rabaçal - 25 Fontes)"
+        "en": "PR 6 – Levada das 25 fontes",
+        "de": "PR 6 – Levada das 25 fontes"
       },
       "notes": {
         "en": "The Levada das 25 Fontes is one‑way. Outbound (Rabaçal → 25 Fontes): follow the classic trail along the Levada. Return (25 Fontes → Rabaçal): use the alternative route, the so‑called “Bypass“.",
@@ -198,7 +288,17 @@
     "geojsonPaths": [
         "/assets/geojson/pr6.json",
         "/assets/geojson/pr6-variant.json"
-      ]
+      ],
+    "startName": "Rabaçal (ER105)",
+    "endName": "25 Fontes",
+    "length_km": 4.3,
+    "duration": "3h",
+    "maxElevation": 1288,
+    "minElevation": 964,
+      "difficulty": {
+        "en": "Medium",
+        "de": "Mittel"
+      }        
     },
     
     {
@@ -206,8 +306,8 @@
       "region": "Calheta",
       "status": "open",
       "name": {
-        "en": "Levada do Risco (Rabaçal - Risco)",
-        "de": "Levada do Risco (Rabaçal - Risco)"
+        "en": "PR 6.1 – Levada do Risco",
+        "de": "PR 6.1 – Levada do Risco"
       },
       "notes": {
         "en": "",
@@ -218,7 +318,17 @@
     "geojsonPaths": [
         "/assets/geojson/pr6.1.json",
         "/assets/geojson/pr6.1-variant.json"
-      ]
+      ],
+    "startName": "Rabaçal (ER105)",
+    "endName": "Risco",
+    "length_km": 3,
+    "duration": "2h",
+    "maxElevation": 1288,
+    "minElevation": 1000,
+      "difficulty": {
+        "en": "Easy",
+        "de": "Leicht"
+      }        
     },
         
     {
@@ -226,8 +336,8 @@
       "region": "Calheta",
       "status": "open",
       "name": {
-        "en": "Levada do Alecrim (Rabaçal - Nascente da Levada do Alecrim)",
-        "de": "Levada do Alecrim (Rabaçal - Nascente da Levada do Alecrim)"
+        "en": "PR 6.2 – Levada do Alecrim",
+        "de": "PR 6.2 – Levada do Alecrim"
       },
       "notes": {
         "en": "",
@@ -238,7 +348,17 @@
     "geojsonPaths": [
         "/assets/geojson/pr6.2.json",
         "/assets/geojson/pr6.2-variant.json"
-      ]
+      ],
+    "startName": "Rabaçal (ER105)",
+    "endName": "Lagoa da Dona Beja",
+    "length_km": 3.5,
+    "duration": "2h",
+    "maxElevation": 0,
+    "minElevation": 0,
+      "difficulty": {
+        "en": "Easy-Medium",
+        "de": "Leicht-Mittel"
+      }        
     },
             
     {
@@ -246,8 +366,8 @@
       "region": "Calheta",
       "status": "open",
       "name": {
-        "en": "Vereda da Lagoa do Vento (Rabaçal - Lagoa do Vento)",
-        "de": "Vereda da Lagoa do Vento (Rabaçal - Lagoa do Vento)"
+        "en": "PR 6.3 – Vereda da Lagoa do Vento",
+        "de": "PR 6.3 – Vereda da Lagoa do Vento"
       },
       "notes": {
         "en": "",
@@ -258,7 +378,17 @@
     "geojsonPaths": [
         "/assets/geojson/pr6.3.json",
         "/assets/geojson/pr6.3-variant.json"
-      ]
+      ],
+    "startName": "Rabaçal (ER105)",
+    "endName": "Lagoa do Vento",
+    "length_km": 1.8,
+    "duration": "1h",
+    "maxElevation": 0,
+    "minElevation": 0,
+      "difficulty": {
+        "en": "Medium",
+        "de": "Mittel"
+      }        
     },
                 
     {
@@ -266,8 +396,8 @@
       "region": "Calheta",
       "status": "open",
       "name": {
-        "en": "Levada Velha do Rabaçal (Pico Gordo - Rabaçal)",
-        "de": "Levada Velha do Rabaçal (Pico Gordo - Rabaçal)"
+        "en": "PR 6.4 – Levada Velha do Rabaçal",
+        "de": "PR 6.4 – Levada Velha do Rabaçal"
       },
       "notes": {
         "en": "",
@@ -278,7 +408,17 @@
     "geojsonPaths": [
         "/assets/geojson/pr6.4.json",
         "/assets/geojson/pr6.4-variant.json"
-      ]
+      ],
+    "startName": "Pico Gordo (ER105)",
+    "endName": "Casa do Rabaçal",
+    "length_km": 5,
+    "duration": "2h",
+    "maxElevation": 1190,
+    "minElevation": 1038,
+      "difficulty": {
+        "en": "Medium-Hard",
+        "de": "Mittel-Schwierig"
+      }        
     },
                     
     {
@@ -286,8 +426,8 @@
       "region": "Calheta",
       "status": "open",
       "name": {
-        "en": "Vereda do Pico Fernandes (Paul da serra - 25 Fontes)",
-        "de": "Vereda do Pico Fernandes (Paul da serra - 25 Fontes)"
+        "en": "PR 6.5 – Vereda do Pico Fernandes",
+        "de": "PR 6.5 – Vereda do Pico Fernandes"
       },
       "notes": {
         "en": "",
@@ -298,7 +438,17 @@
     "geojsonPaths": [
         "/assets/geojson/pr6.5.json",
         "/assets/geojson/pr6.5-variant.json"
-      ]
+      ],
+    "startName": "Paul da Serra (ER209)",
+    "endName": "25 Fontes",
+    "length_km": 3.8,
+    "duration": "1h 30m",
+    "maxElevation": 1422,
+    "minElevation": 990,
+      "difficulty": {
+        "en": "Medium",
+        "de": "Mittel"
+      }        
     },
                         
     {
@@ -306,8 +456,8 @@
       "region": "Calheta",
       "status": "open",
       "name": {
-        "en": "Vereda do Túnel do Cavalo (Zona de Lazer da Caldeira - Casa do Rabaçal)",
-        "de": "Vereda do Túnel do Cavalo (Zona de Lazer da Caldeira - Casa do Rabaçal)"
+        "en": "PR 6.6 – Vereda do Túnel do Cavalo",
+        "de": "PR 6.6 – Vereda do Túnel do Cavalo"
       },
       "notes": {
         "en": "",
@@ -318,7 +468,17 @@
     "geojsonPaths": [
         "/assets/geojson/pr6.6.json",
         "/assets/geojson/pr6.6-variant.json"
-      ]
+      ],
+    "startName": "Estrada Dr.Roberto Monteiro",
+    "endName": "Casa do Rabaçal",
+    "length_km": 2.3,
+    "duration": "45m",
+    "maxElevation": 1055,
+    "minElevation": 988,
+      "difficulty": {
+        "en": "Medium",
+        "de": "Mittel"
+      }        
     },
                             
     {
@@ -326,8 +486,8 @@
       "region": "Calheta",
       "status": "open",
       "name": {
-        "en": "Vereda da Câmara de carga do Rabaçal (Rabaçal - Túnel do Cavalo)",
-        "de": "Vereda da Câmara de carga do Rabaçal (Rabaçal - Túnel do Cavalo)"
+        "en": "PR 6.7 – Vereda da Câmara de carga do Rabaçal ",
+        "de": "PR 6.7 – Vereda da Câmara de carga do Rabaçal "
       },
       "notes": {
         "en": "",
@@ -338,7 +498,17 @@
     "geojsonPaths": [
         "/assets/geojson/pr6.7.json",
         "/assets/geojson/pr6.7-variant.json"
-      ]
+      ],
+    "startName": "Rabaçal (ER105)",
+    "endName": "Túnel do Cavalo",
+    "length_km": 1.8,
+    "duration": "3h",
+    "maxElevation": 0,
+    "minElevation": 0,
+      "difficulty": {
+        "en": "Medium-Hard",
+        "de": "Mittel-Schwierig"
+      }        
     },
                                 
     {
@@ -346,8 +516,8 @@
       "region": "Calheta",
       "status": "open",
       "name": {
-        "en": "Levada do Paúl II - Um Caminho Para Todos (Rabaçal Estrada do Rochão)",
-        "de": "Levada do Paúl II - Um Caminho Para Todos (Rabaçal Estrada do Rochão)"
+        "en": "PR 6.8 – Levada do Paúl II - Um Caminho Para Todos",
+        "de": "PR 6.8 – Levada do Paúl II - Um Caminho Para Todos"
       },
       "notes": {
         "en": "",
@@ -358,7 +528,17 @@
     "geojsonPaths": [
         "/assets/geojson/pr6.8.json",
         "/assets/geojson/pr6.8-variant.json"
-      ]
+      ],
+    "startName": "Rabaçal (ER105)",
+    "endName": "Estrada do Rochão",
+    "length_km": 1.2,
+    "duration": "30m",
+    "maxElevation": 1280,
+    "minElevation": 1279,
+      "difficulty": {
+        "en": "Medium-Hard",
+        "de": "Mittel-Schwierig"
+      }        
     },
                                     
     {
@@ -366,8 +546,8 @@
       "region": "Porto Moniz",
       "status": "closed",
       "name": {
-        "en": "Levada do Moinho (Ribeira da Cruz - Lamaceiros)",
-        "de": "Levada do Moinho (Ribeira da Cruz - Lamaceiros)"
+        "en": "PR 7 – Levada do Moinho",
+        "de": "PR 7 – Levada do Moinho"
       },
       "notes": {
         "en": "",
@@ -378,7 +558,17 @@
       "geojsonPaths": [
           "/assets/geojson/pr7.json",
           "/assets/geojson/pr7-variant.json"
-        ]
+        ],
+    "startName": "Ribeira da Cruz",
+    "endName": "Junqueira",
+    "length_km": 10.3,
+    "duration": "3h 30m",
+    "maxElevation": 940,
+    "minElevation": 504,
+      "difficulty": {
+        "en": "Medium",
+        "de": "Mittel"
+      }          
     },
                                     
     {
@@ -386,8 +576,8 @@
       "region": "Machico",
       "status": "open",
       "name": {
-        "en": "Vereda da Ponta de São Lourenço (Baia d´Abra - Cais do Sardinha)",
-        "de": "Vereda da Ponta de São Lourenço (Baia d´Abra - Cais do Sardinha)"
+        "en": "PR 8 – Vereda da Ponta de São Lourenço",
+        "de": "PR 8 – Vereda da Ponta de São Lourenço"
       },
       "notes": {
         "en": "",
@@ -398,7 +588,17 @@
       "geojsonPaths": [
           "/assets/geojson/pr8.json",
           "/assets/geojson/pr8-variant.json"
-        ]
+        ],
+    "startName": "Baia d´Abra",
+    "endName": "Casa do Sardinha",
+    "length_km": 3,
+    "duration": "2h 30m",
+    "maxElevation": 126,
+    "minElevation": 23,
+      "difficulty": {
+        "en": "Medium",
+        "de": "Mittel"
+      }          
     },
                                         
     {
@@ -406,8 +606,8 @@
       "region": "Santana",
       "status": "open",
       "name": {
-        "en": "Levada do Caldeirão Verde (Queimadas - Caldeirão Verde - Caldeirão do Inferno) ",
-        "de": "Levada do Caldeirão Verde (Queimadas - Caldeirão Verde - Caldeirão do Inferno) "
+        "en": "PR 9 – Levada do Caldeirão Verde",
+        "de": "PR 9 – Levada do Caldeirão Verde"
       },
       "notes": {
         "en": "Attention! The section between Caldeirão Verde and Caldeirão do Inferno is CLOSED!",
@@ -418,7 +618,17 @@
       "geojsonPaths": [
           "/assets/geojson/pr9.json",
           "/assets/geojson/pr9-variant.json"
-        ]
+        ],
+    "startName": "Parque Florestal das Queimadas",
+    "endName": "Caldeirão do Inferno",
+    "length_km": 8.7,
+    "duration": "6h 30m",
+    "maxElevation": 1020,
+    "minElevation": 872,
+      "difficulty": {
+        "en": "Medium",
+        "de": "Mittel"
+      }          
     },
                                         
     {
@@ -426,8 +636,8 @@
       "region": "Santana",
       "status": "open",
       "name": {
-        "en": "Levada do Caldeirão Verde - Um Caminho para Todos (Queimadas - Pico das Pedras)",
-        "de": "Levada do Caldeirão Verde - Um Caminho para Todos (Queimadas - Pico das Pedras)"
+        "en": "PR 9.1 – Levada do Caldeirão Verde - Um Caminho para Todos",
+        "de": "PR 9.1 – Levada do Caldeirão Verde - Um Caminho para Todos"
       },
       "notes": {
         "en": "",
@@ -438,7 +648,17 @@
       "geojsonPaths": [
           "/assets/geojson/pr9.1.json",
           "/assets/geojson/pr9.1-variant.json"
-        ]
+        ],
+    "startName": "Parque Florestal das Queimadas",
+    "endName": "Parking Pico das Pedras",
+    "length_km": 1.9,
+    "duration": "45m",
+    "maxElevation": 0,
+    "minElevation": 0,
+      "difficulty": {
+        "en": "Easy",
+        "de": "Leicht"
+      }          
     },
                                             
     {
@@ -446,8 +666,8 @@
       "region": "Machico",
       "status": "open",
       "name": {
-        "en": "Levada do Furado (Ribeiro Frio - Portela)",
-        "de": "Levada do Furado (Ribeiro Frio - Portela)"
+        "en": "PR 10 – Levada do Furado",
+        "de": "PR 10 – Levada do Furado"
       },
       "notes": {
         "en": "",
@@ -458,7 +678,17 @@
       "geojsonPaths": [
           "/assets/geojson/pr10.json",
           "/assets/geojson/pr10-variant.json"
-        ]
+        ],
+    "startName": "Ribeiro Frio",
+    "endName": "Portela",
+    "length_km": 11,
+    "duration": "5h",
+    "maxElevation": 880,
+    "minElevation": 645,
+      "difficulty": {
+        "en": "Medium",
+        "de": "Mittel"
+      }          
     },
                                                 
     {
@@ -466,8 +696,8 @@
       "region": "Santana",
       "status": "open",
       "name": {
-        "en": "Vereda dos Balcões (Ribeiro Frio - Balcões)",
-        "de": "Vereda dos Balcões (Ribeiro Frio - Balcões)"
+        "en": "PR 11 – Vereda dos Balcões",
+        "de": "PR 11 – Vereda dos Balcões"
       },
       "notes": {
         "en": "",
@@ -478,7 +708,17 @@
       "geojsonPaths": [
           "/assets/geojson/pr11.json",
           "/assets/geojson/pr11-variant.json"
-        ]
+        ],
+    "startName": "Ribeiro Frio",
+    "endName": "Balcões",
+    "length_km": 1.5,
+    "duration": "1h 30m",
+    "maxElevation": 880,
+    "minElevation": 870,
+      "difficulty": {
+        "en": "Easy",
+        "de": "Leicht"
+      }          
     },
                                                     
     {
@@ -486,8 +726,8 @@
       "region": "Ribeira Brava",
       "status": "partial",
       "name": {
-        "en": "Caminho Real da Encumeada (Boca da Corrida - Encumeada - Ribeira Grande) ",
-        "de": "Caminho Real da Encumeada (Boca da Corrida - Encumeada - Ribeira Grande) "
+        "en": "PR 12 – Caminho Real da Encumeada",
+        "de": "PR 12 – Caminho Real da Encumeada"
       },
       "notes": {
         "en": "This trail is only accessible from Boca da Corrida up to kilometer 3.5.",
@@ -498,7 +738,17 @@
       "geojsonPaths": [
           "/assets/geojson/pr12.json",
           "/assets/geojson/pr12-variant.json"
-        ]
+        ],
+    "startName": "Miradouro da Boca da Corrida",
+    "endName": "Encumeada",
+    "length_km": 12.5,
+    "duration": "5h",
+    "maxElevation": 1323,
+    "minElevation": 830,
+      "difficulty": {
+        "en": "Hard",
+        "de": "Schwierig"
+      }          
     },
                                                     
     {
@@ -506,8 +756,8 @@
       "region": "Porto Moniz",
       "status": "open",
       "name": {
-        "en": "Vereda do Fanal (Assobiadores - Paul da Serra - Fanal)",
-        "de": "Vereda do Fanal (Assobiadores - Paul da Serra - Fanal)"
+        "en": "PR 13 – Vereda do Fanal",
+        "de": "PR 13 – Vereda do Fanal"
       },
       "notes": {
         "en": "",
@@ -518,7 +768,17 @@
       "geojsonPaths": [
           "/assets/geojson/pr13.json",
           "/assets/geojson/pr13-variant.json"
-        ]
+        ],
+    "startName": "Assobiadores (ER209)",
+    "endName": "Fanal",
+    "length_km": 10.8,
+    "duration": "4h",
+    "maxElevation": 1420,
+    "minElevation": 1130,
+      "difficulty": {
+        "en": "Medium",
+        "de": "Mittel"
+      }          
     },
                                                         
     {
@@ -526,8 +786,8 @@
       "region": "Porto Moniz",
       "status": "open",
       "name": {
-        "en": "Vereda da Palha Carga (Louro da Gota - 25 Fontes)",
-        "de": "Vereda da Palha Carga (Louro da Gota - 25 Fontes)"
+        "en": "PR 13.1 – Vereda da Palha Carga",
+        "de": "PR 13.1 – Vereda da Palha Carga"
       },
       "notes": {
         "en": "",
@@ -538,7 +798,17 @@
       "geojsonPaths": [
           "/assets/geojson/pr13.1.json",
           "/assets/geojson/pr13.1-variant.json"
-        ]
+        ],
+    "startName": "Louro da Gota (ER209)",
+    "endName": "25 Fontes",
+    "length_km": 1.8,
+    "duration": "45m",
+    "maxElevation": 1328,
+    "minElevation": 970,
+      "difficulty": {
+        "en": "Medium",
+        "de": "Mittel"
+      }          
     },
                                                             
     {
@@ -546,8 +816,8 @@
       "region": "Porto Moniz",
       "status": "open",
       "name": {
-        "en": "Levada dos Cedros (Fanal - Curral Falso)",
-        "de": "Levada dos Cedros (Fanal - Curral Falso)"
+        "en": "PR 14 – Levada dos Cedros",
+        "de": "PR 14 – Levada dos Cedros"
       },
       "notes": {
         "en": "",
@@ -558,7 +828,17 @@
       "geojsonPaths": [
           "/assets/geojson/pr14.json",
           "/assets/geojson/pr14-variant.json"
-        ]
+        ],
+    "startName": "Fanal",
+    "endName": "Curral Falso",
+    "length_km": 7.2,
+    "duration": "3h",
+    "maxElevation": 1090,
+    "minElevation": 840,
+      "difficulty": {
+        "en": "Medium",
+        "de": "Mittel"
+      }          
     },
                                                                 
     {
@@ -566,8 +846,8 @@
       "region": "Porto Moniz",
       "status": "open",
       "name": {
-        "en": "Vereda da Ribeira da Janela (Curral Falso - Ribeira da Janela)",
-        "de": "Vereda da Ribeira da Janela (Curral Falso - Ribeira da Janela)"
+        "en": "PR 15 – Vereda da Ribeira da Janela",
+        "de": "PR 15 – Vereda da Ribeira da Janela"
       },
       "notes": {
         "en": "",
@@ -578,7 +858,17 @@
       "geojsonPaths": [
           "/assets/geojson/pr15.json",
           "/assets/geojson/pr15-variant.json"
-        ]
+        ],
+    "startName": "Curral Falso",
+    "endName": "Ribeira da Janela",
+    "length_km": 2.7,
+    "duration": "1h 30m",
+    "maxElevation": 820,
+    "minElevation": 400,
+      "difficulty": {
+        "en": "Medium-Hard",
+        "de": "Mittel-Schwierig"
+      }          
     },
                                                                     
     {
@@ -586,8 +876,8 @@
       "region": "São Vicente",
       "status": "open",
       "name": {
-        "en": "Levada Fajã do Rodrigues (Fajã da Amã - Ribeira do Inferno)",
-        "de": "Levada Fajã do Rodrigues (Fajã da Amã - Ribeira do Inferno)"
+        "en": "PR 16 – Levada Fajã do Rodrigues",
+        "de": "PR 16 – Levada Fajã do Rodrigues"
       },
       "notes": {
         "en": "",
@@ -598,7 +888,17 @@
       "geojsonPaths": [
           "/assets/geojson/pr16.json",
           "/assets/geojson/pr16-variant.json"
-        ]
+        ],
+    "startName": "Ginjas",
+    "endName": "Ribeira do Inferno",
+    "length_km": 3.9,
+    "duration": "3h 30m",
+    "maxElevation": 630,
+    "minElevation": 600,
+      "difficulty": {
+        "en": "Medium",
+        "de": "Mittel"
+      }          
     },
                                                                         
     {
@@ -606,8 +906,8 @@
       "region": "Ribeira Brava",
       "status": "partial",
       "name": {
-        "en": "Caminho do Pináculo e Folhadal (Lombo do Mouro - Caramujo - Folhadal - Encumeada) ",
-        "de": "Caminho do Pináculo e Folhadal (Lombo do Mouro - Caramujo - Folhadal - Encumeada) "
+        "en": "PR 17 – Caminho do Pináculo e Folhadal",
+        "de": "PR 17 – Caminho do Pináculo e Folhadal"
       },
       "notes": {
         "en": "The trail is accessible only between Encumeada and Bica da Cana, passing Folhadal–Caramujo. Other sections are currently not usable.",
@@ -618,7 +918,17 @@
       "geojsonPaths": [
           "/assets/geojson/pr17.json",
           "/assets/geojson/pr17v-variant.json"
-        ]
+        ],
+    "startName": "Lombo do Mouro",
+    "endName": "Boca da Encumeada",
+    "length_km": 15,
+    "duration": "6h 30m",
+    "maxElevation": 1490,
+    "minElevation": 970,
+      "difficulty": {
+        "en": "Hard",
+        "de": "Schwierig"
+      }          
     },
                                                                         
     {
@@ -626,8 +936,8 @@
       "region": "Santana",
       "status": "open",
       "name": {
-        "en": "Levada do Rei (Quebradas - Ribeiro Bonito)",
-        "de": "Levada do Rei (Quebradas - Ribeiro Bonito)"
+        "en": "PR 18 – Levada do Rei",
+        "de": "PR 18 – Levada do Rei"
       },
       "notes": {
         "en": "",
@@ -638,7 +948,17 @@
       "geojsonPaths": [
           "/assets/geojson/pr18.json",
           "/assets/geojson/pr18-variant.json"
-        ]
+        ],
+    "startName": "Quebradas (ETA de São Jorge)",
+    "endName": "Ribeiro Bonito",
+    "length_km": 5.3,
+    "duration": "3h 30m",
+    "maxElevation": 578,
+    "minElevation": 535,
+      "difficulty": {
+        "en": "Medium",
+        "de": "Mittel"
+      }          
     },
                                                                             
     {
@@ -646,8 +966,8 @@
       "region": "Calheta",
       "status": "open",
       "name": {
-        "en": "Caminho Real do Paul do Mar (Prazeres - Paul do Mar)",
-        "de": "Caminho Real do Paul do Mar (Prazeres - Paul do Mar)"
+        "en": "PR 19 – Caminho Real do Paul do Mar",
+        "de": "PR 19 – Caminho Real do Paul do Mar"
       },
       "notes": {
         "en": "",
@@ -658,7 +978,17 @@
       "geojsonPaths": [
           "/assets/geojson/pr19.json",
           "/assets/geojson/pr19-variant.json"
-        ]
+        ],
+    "startName": "Prazeres",
+    "endName": "Paul do Mar",
+    "length_km": 1.8,
+    "duration": "1h 20m",
+    "maxElevation": 550,
+    "minElevation": 16,
+      "difficulty": {
+        "en": "Medium",
+        "de": "Mittel"
+      }          
     },
                                                                                 
     {
@@ -666,8 +996,8 @@
       "region": "Calheta",
       "status": "closed",
       "name": {
-        "en": "Vereda do Jardim do Mar (Prazeres - Jardim do Mar)",
-        "de": "Vereda do Jardim do Mar (Prazeres - Jardim do Mar)"
+        "en": "PR 20 – Vereda do Jardim do Mar",
+        "de": "PR 20 – Vereda do Jardim do Mar"
       },
       "notes": {
         "en": "",
@@ -678,7 +1008,17 @@
       "geojsonPaths": [
           "/assets/geojson/pr20.json",
           "/assets/geojson/pr20-variant.json"
-        ]
+        ],
+    "startName": "Prazeres",
+    "endName": "Jardim do Mar",
+    "length_km": 1.9,
+    "duration": "1h 30m",
+    "maxElevation": 530,
+    "minElevation": 35,
+      "difficulty": {
+        "en": "Medium",
+        "de": "Mittel"
+      }          
     },
                                                                                     
     {
@@ -686,8 +1026,8 @@
       "region": "São Vicente",
       "status": "open",
       "name": {
-        "en": "Caminho do Norte (Encumeada - Ribeira Grande)",
-        "de": "Caminho do Norte (Encumeada - Ribeira Grande)"
+        "en": "PR 21 – Caminho do Norte",
+        "de": "PR 21 – Caminho do Norte"
       },
       "notes": {
         "en": "",
@@ -698,7 +1038,17 @@
       "geojsonPaths": [
           "/assets/geojson/pr21.json",
           "/assets/geojson/pr21-variant.json"
-        ]
+        ],
+    "startName": "Boca da Encumeada",
+    "endName": "Ribeira Grande",
+    "length_km": 3.2,
+    "duration": "1h 30m",
+    "maxElevation": 1000,
+    "minElevation": 320,
+      "difficulty": {
+        "en": "Hard",
+        "de": "Schwierig"
+      }          
     },
                                                                                         
     {
@@ -706,8 +1056,8 @@
       "region": "São Vicente",
       "status": "open",
       "name": {
-        "en": "Vereda do Chão dos Louros",
-        "de": "Vereda do Chão dos Louros"
+        "en": "PR 22 – Vereda do Chão dos Louros ",
+        "de": "PR 22 – Vereda do Chão dos Louros "
       },
       "notes": {
         "en": "",
@@ -718,7 +1068,17 @@
       "geojsonPaths": [
           "/assets/geojson/pr22.json",
           "/assets/geojson/pr22-variant.json"
-        ]
+        ],
+    "startName": "Chão dos Louros",
+    "endName": "Chão dos Louros",
+    "length_km": 1.9,
+    "duration": "45m",
+    "maxElevation": 890,
+    "minElevation": 830,
+      "difficulty": {
+        "en": "Easy",
+        "de": "Leicht"
+      }          
     },
                                                                                             
     {
@@ -726,8 +1086,8 @@
       "region": "Santa Cruz",
       "status": "open",
       "name": {
-        "en": "Levada da Azenha (Azenha - Caminho Velho do Castelo)",
-        "de": "Levada da Azenha (Azenha - Caminho Velho do Castelo)"
+        "en": "PR 23 – Levada da Azenha",
+        "de": "PR 23 – Levada da Azenha"
       },
       "notes": {
         "en": "",
@@ -738,7 +1098,17 @@
       "geojsonPaths": [
           "/assets/geojson/pr23.json",
           "/assets/geojson/pr23-variant.json"
-        ]
+        ],
+    "startName": "Azenha Estrada Regional (ER204)",
+    "endName": "Caminho Velho do Castelo",
+    "length_km": 1.3,
+    "duration": "20m",
+    "maxElevation": 304,
+    "minElevation": 271,
+      "difficulty": {
+        "en": "Medium",
+        "de": "Mittel"
+      }          
     },
                                                                                                 
     {
@@ -746,8 +1116,8 @@
       "region": "Calheta",
       "status": "closed",
       "name": {
-        "en": "Glaciar do Planalto (Bica da Cana - ER 105)",
-        "de": "Glaciar do Planalto (Bica da Cana - ER 105)"
+        "en": "PR 27 – Glaciar do Planalto",
+        "de": "PR 27 – Glaciar do Planalto"
       },
       "notes": {
         "en": "",
@@ -758,7 +1128,17 @@
       "geojsonPaths": [
           "/assets/geojson/pr27.json",
           "/assets/geojson/pr27-variant.json"
-        ]
+        ],
+    "startName": "Bica da Cana",
+    "endName": "ER 105",
+    "length_km": 4.6,
+    "duration": "1h 30m",
+    "maxElevation": 1588,
+    "minElevation": 1457,
+      "difficulty": {
+        "en": "Hard",
+        "de": "Schwierig"
+      }          
     },
                                                                                                     
     {
@@ -766,8 +1146,8 @@
       "region": "Calheta",
       "status": "closed",
       "name": {
-        "en": "Levada do Rocha Vermelha (Fanal - Lombo do Atouguia)",
-        "de": "Levada do Rocha Vermelha (Fanal - Lombo do Atouguia)"
+        "en": "PR 28 – Levada do Rocha Vermelha",
+        "de": "PR 28 – Levada do Rocha Vermelha"
       },
       "notes": {
         "en": "",
@@ -778,7 +1158,17 @@
       "geojsonPaths": [
           "/assets/geojson/pr28.json",
           "/assets/geojson/pr28-variant.json"
-        ]
+        ],
+    "startName": "Fanal (ER209)",
+    "endName": "Casa dos Guardas de Canal (Lombo do Atouguia)",
+    "length_km": 10.8,
+    "duration": "4h",
+    "maxElevation": 1297,
+    "minElevation": 837,
+      "difficulty": {
+        "en": "Hard",
+        "de": "Schwierig"
+      }          
     },
                                                                                                         
     {
@@ -786,8 +1176,8 @@
       "region": "Porto Santo",
       "status": "open",
       "name": {
-        "en": "Vereda do Pico Branco e Terra Chã (ER 111 - Terra Chã)",
-        "de": "Vereda do Pico Branco e Terra Chã (ER 111 - Terra Chã)"
+        "en": "PS PR 1 – Vereda do Pico Branco e Terra Chã",
+        "de": "PS PR 1 – Vereda do Pico Branco e Terra Chã"
       },
       "notes": {
         "en": "",
@@ -798,7 +1188,17 @@
       "geojsonPaths": [
           "/assets/geojson/pspr1.json",
           "/assets/geojson/pspr1-variant.json"
-        ]
+        ],
+    "startName": "ER 120",
+    "endName": "Terra Chã",
+    "length_km": 2.7,
+    "duration": "1h 30m",
+    "maxElevation": 450,
+    "minElevation": 184,
+      "difficulty": {
+        "en": "Medium",
+        "de": "Mittel"
+      }         
     },
                                                                                                             
     {
@@ -806,8 +1206,8 @@
       "region": "Porto Santo",
       "status": "open",
       "name": {
-        "en": "Vereda do Pico do Castelo (Moledo - Pico do Castelo)",
-        "de": "Vereda do Pico do Castelo (Moledo - Pico do Castelo)"
+        "en": "PS PR 2 – Vereda do Pico do Castelo",
+        "de": "PS PR 2 – Vereda do Pico do Castelo"
       },
       "notes": {
         "en": "",
@@ -818,7 +1218,17 @@
       "geojsonPaths": [
           "/assets/geojson/pspr2.json",
           "/assets/geojson/pspr2-variant.json"
-        ]
+        ],
+    "startName": "Moledo",
+    "endName": "Miradouro do Canhão",
+    "length_km": 4.6 ,
+    "duration": "2h 15m",
+    "maxElevation": 437,
+    "minElevation": 225,
+      "difficulty": {
+        "en": "Easy",
+        "de": "Leicht"
+      }          
     },
                                                                                                                 
     {
@@ -826,8 +1236,8 @@
       "region": "Porto Santo",
       "status": "closed",
       "name": {
-        "en": "Levada do Pico do Castelo (Camacha - Ribeiro Formoso - Capela da Graça)",
-        "de": "Levada do Pico do Castelo (Camacha - Ribeiro Formoso - Capela da Graça)"
+        "en": "PS PR 3 – Levada do Pico do Castelo",
+        "de": "PS PR 3 – Levada do Pico do Castelo"
       },
       "notes": {
         "en": "",
@@ -838,7 +1248,17 @@
       "geojsonPaths": [
           "/assets/geojson/pspr3.json",
           "/assets/geojson/pspr3-variant.json"
-        ]
+        ],
+    "startName": "Camacha",
+    "endName": "Capela da Graça",
+    "length_km": 4.1,
+    "duration": "1h 30m",
+    "maxElevation": 210,
+    "minElevation": 80,
+      "difficulty": {
+        "en": "Easy",
+        "de": "Leicht"
+      }          
     }
   ]
 }
