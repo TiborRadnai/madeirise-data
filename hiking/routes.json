@@ -14,7 +14,7 @@
         "de": "Weg nur zwischen Pico do Areeiro und Pedra Rija Belvedere begehbar (km 1,2)."
     },
     "mapUrl": "/assets/images/pr1-card.jpg",
-    "imageUrl": "/assets/images/pr1-modal.jpg",
+    "imageUrl": "/assets/images/pr1-modal.webp",
     "geojsonPaths": [
         "/assets/geojson/pr1.json",
         "/assets/geojson/pr1-variant.json"
