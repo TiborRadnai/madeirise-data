@@ -44,7 +44,7 @@
         "de": ""
       },
     "mapUrl": "/assets/images/pr1.1-card.jpg",
-    "imageUrl": "/assets/images/pr1.1-modal.jpg",
+    "imageUrl": "/assets/images/routes/pr1.1.webp",
     "geojsonPaths": [
         "/assets/geojson/pr1.1.json",
         "/assets/geojson/pr1.1-variant.json"
@@ -74,7 +74,7 @@
         "de": ""
       },
     "mapUrl": "/assets/images/pr1.2-card.jpg",
-    "imageUrl": "/assets/images/pr1.2-modal.jpg",
+    "imageUrl": "/assets/images/routes/pr1.2.webp",
     "geojsonPaths": [
         "/assets/geojson/pr1.2.json",
         "/assets/geojson/pr1.2-variant.json"
@@ -104,7 +104,7 @@
         "de": ""
       },
     "mapUrl": "/assets/images/pr1.3-card.jpg",
-    "imageUrl": "/assets/images/pr1.3-modal.jpg",
+    "imageUrl": "/assets/images/routes/pr1.3.webp",
     "geojsonPaths": [
         "/assets/geojson/pr1.3.json",
         "/assets/geojson/pr1.3-variant.json"
@@ -134,7 +134,7 @@
         "de": "Dieser Wanderweg ist nur vom Lombo do Urzal bis zum Kilometer 6,2 begehbar."
       },
     "mapUrl": "/assets/images/pr2-card.jpg",
-    "imageUrl": "/assets/images/pr2-modal.jpg",
+    "imageUrl": "/assets/images/routes/pr2.webp",
     "geojsonPaths": [
         "/assets/geojson/pr2.json",
         "/assets/geojson/pr2-variant.json"
@@ -164,7 +164,7 @@
         "de": ""
       },
     "mapUrl": "/assets/images/pr3-card.jpg",
-    "imageUrl": "/assets/images/pr3-modal.jpg",
+    "imageUrl": "/assets/images/routes/pr3.webp",
     "geojsonPaths": [
         "/assets/geojson/pr3.json",
         "/assets/geojson/pr3-variant.json"
@@ -194,7 +194,7 @@
         "de": ""
       },
     "mapUrl": "/assets/images/pr3.1-card.jpg",
-    "imageUrl": "/assets/images/pr3.1-modal.jpg",
+    "imageUrl": "/assets/images/routes/pr3.1.webp",
     "geojsonPaths": [
         "/assets/geojson/pr3.1.json",
         "/assets/geojson/pr3.1-variant.json"
@@ -224,7 +224,7 @@
         "de": ""
       },
     "mapUrl": "/assets/images/pr4-card.jpg",
-    "imageUrl": "/assets/images/pr4-modal.jpg",
+    "imageUrl": "/assets/images/routes/pr4.webp",
     "geojsonPaths": [
         "/assets/geojson/pr4.json",
         "/assets/geojson/pr4-variant.json"
@@ -254,7 +254,7 @@
         "de": ""
       },
     "mapUrl": "/assets/images/pr5-card.jpg",
-    "imageUrl": "/assets/images/pr5-modal.jpg",
+    "imageUrl": "/assets/images/routes/pr5.webp",
     "geojsonPaths": [
         "/assets/geojson/pr5.json",
         "/assets/geojson/pr5-variant.json"
@@ -284,7 +284,7 @@
         "de": "Die Levada das 25 Fontes ist als Einbahnweg geregelt. Hinweg (Rabaçal → 25 Quellen): auf dem klassischen Weg entlang der Levada. Rückweg (25 Quellen → Rabaçal): über die alternative Route, den sogenannten „Bypass“."
       },
     "mapUrl": "/assets/images/pr6-card.jpg",
-    "imageUrl": "/assets/images/pr6-modal.jpg",
+    "imageUrl": "/assets/images/routes/pr6.webp",
     "geojsonPaths": [
         "/assets/geojson/pr6.json",
         "/assets/geojson/pr6-variant.json"
@@ -314,7 +314,7 @@
         "de": ""
       },
     "mapUrl": "/assets/images/pr6.1-card.jpg",
-    "imageUrl": "/assets/images/pr6.1-modal.jpg",
+    "imageUrl": "/assets/images/routes/pr6.1.webp",
     "geojsonPaths": [
         "/assets/geojson/pr6.1.json",
         "/assets/geojson/pr6.1-variant.json"
@@ -344,7 +344,7 @@
         "de": ""
       },
     "mapUrl": "/assets/images/pr6.2-card.jpg",
-    "imageUrl": "/assets/images/pr6.2-modal.jpg",
+    "imageUrl": "/assets/images/routes/pr6.2.webp",
     "geojsonPaths": [
         "/assets/geojson/pr6.2.json",
         "/assets/geojson/pr6.2-variant.json"
@@ -374,7 +374,7 @@
         "de": ""
       },
     "mapUrl": "/assets/images/pr6.3-card.jpg",
-    "imageUrl": "/assets/images/pr6.3-modal.jpg",
+    "imageUrl": "/assets/images/routes/pr6.3.webp",
     "geojsonPaths": [
         "/assets/geojson/pr6.3.json",
         "/assets/geojson/pr6.3-variant.json"
@@ -404,7 +404,7 @@
         "de": ""
       },
     "mapUrl": "/assets/images/pr6.4-card.jpg",
-    "imageUrl": "/assets/images/pr6.4-modal.jpg",
+    "imageUrl": "/assets/images/routes/pr6.4.webp",
     "geojsonPaths": [
         "/assets/geojson/pr6.4.json",
         "/assets/geojson/pr6.4-variant.json"
@@ -434,7 +434,7 @@
         "de": ""
       },
     "mapUrl": "/assets/images/pr6.5-card.jpg",
-    "imageUrl": "/assets/images/pr6.5-modal.jpg",
+    "imageUrl": "/assets/images/routes/pr6.5.webp",
     "geojsonPaths": [
         "/assets/geojson/pr6.5.json",
         "/assets/geojson/pr6.5-variant.json"
@@ -464,7 +464,7 @@
         "de": ""
       },
     "mapUrl": "/assets/images/pr6.6-card.jpg",
-    "imageUrl": "/assets/images/pr6.6-modal.jpg",
+    "imageUrl": "/assets/images/routes/pr6.6.webp",
     "geojsonPaths": [
         "/assets/geojson/pr6.6.json",
         "/assets/geojson/pr6.6-variant.json"
@@ -494,7 +494,7 @@
         "de": ""
       },
     "mapUrl": "/assets/images/pr6.7-card.jpg",
-    "imageUrl": "/assets/images/pr6.7-modal.jpg",
+    "imageUrl": "/assets/images/routes/pr6.7.webp",
     "geojsonPaths": [
         "/assets/geojson/pr6.7.json",
         "/assets/geojson/pr6.7-variant.json"
@@ -524,7 +524,7 @@
         "de": ""
       },
     "mapUrl": "/assets/images/pr6.8-card.jpg",
-    "imageUrl": "/assets/images/pr6.8-modal.jpg",
+    "imageUrl": "/assets/images/routes/pr6.8.webp",
     "geojsonPaths": [
         "/assets/geojson/pr6.8.json",
         "/assets/geojson/pr6.8-variant.json"
