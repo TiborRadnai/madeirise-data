@@ -1,5 +1,9 @@
 {
   "version": "2025-11-18",
+  "config": {
+    "taxiUrl": "https://madeirataxiapp.com/",
+    "helpPhone": "+351112"
+  },
   "routes": [
     {
     "code": "PR 1",
@@ -28,7 +32,9 @@
       "difficulty": {
         "en": "Hard",
         "de": "Schwierig"
-      }  
+      },
+      "busPdf": "https://www.rodoeste.com.pt/assets/front/pdf/schedules/locality/CAMPANARIO.pdf",
+      "busFallback": "https://www.rodoeste.com.pt/horarios" 
     },
 
     {
