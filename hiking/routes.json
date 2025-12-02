@@ -33,8 +33,8 @@
         "en": "Hard",
         "de": "Schwierig"
       },
-      "busPdf": "https://www.rodoeste.com.pt/assets/front/pdf/schedules/locality/CAMPANARIO.pdf",
-      "busFallback": "https://www.rodoeste.com.pt/horarios" 
+      "busPdf": "http://www.horariosdofunchal.pt/mobile/PicoAreeiro.php?lang=en",
+      "busFallback": "http://www.horariosdofunchal.pt/mobile/horarios.php?lang=pt" 
     },
 
     {
@@ -64,7 +64,7 @@
       "difficulty": {
         "en": "Hard",
         "de": "Schwierig"
-      }        
+      }               
     },
 
     {
@@ -94,7 +94,7 @@
       "difficulty": {
         "en": "Medium",
         "de": "Mittel"
-      }        
+      }              
     },
     
     {
@@ -124,7 +124,9 @@
       "difficulty": {
         "en": "Hard",
         "de": "Schwierig"
-      }        
+      },
+      "busPdf": "https://www.rodoeste.com.pt/assets/front/pdf/schedules/locality/ENCUMEADA.pdf?2025-12-02",
+      "busFallback": "https://www.rodoeste.com.pt/horarios"               
     },
         
     {
@@ -184,7 +186,7 @@
       "difficulty": {
         "en": "Medium",
         "de": "Mittel"
-      }        
+      }              
     },
     
     {
@@ -214,7 +216,9 @@
       "difficulty": {
         "en": "Easy-Medium",
         "de": "Leicht-Mittel"
-      }        
+      },
+      "busPdf": "https://siga.madeira.gov.pt/storage/horarios_pdf/6D750CF2-BC6A-493A-94C1-0F9FAEBA2D31.pdf",
+      "busFallback": "https://siga.madeira.gov.pt"               
     },
         
     {
@@ -274,7 +278,9 @@
       "difficulty": {
         "en": "Medium",
         "de": "Mittel"
-      }        
+      },
+      "busPdf": "https://siga.madeira.gov.pt/storage/horarios_pdf/sam_156.pdf",
+      "busFallback": "https://siga.madeira.gov.pt"                
     },
     
     {
@@ -604,7 +610,9 @@
       "difficulty": {
         "en": "Medium",
         "de": "Mittel"
-      }          
+      },
+      "busPdf": "https://siga.madeira.gov.pt/storage/horarios_pdf/sam_113.pdf",
+      "busFallback": "https://siga.madeira.gov.pt"                 
     },
                                         
     {
@@ -694,7 +702,9 @@
       "difficulty": {
         "en": "Medium",
         "de": "Mittel"
-      }          
+      },
+      "busPdf": "https://siga.madeira.gov.pt/storage/horarios_pdf/sam_20.pdf",
+      "busFallback": "https://siga.madeira.gov.pt"                    
     },
                                                 
     {
@@ -754,7 +764,9 @@
       "difficulty": {
         "en": "Hard",
         "de": "Schwierig"
-      }          
+      },
+      "busPdf": "https://www.rodoeste.com.pt/assets/front/pdf/schedules/locality/ENCUMEADA.pdf?2025-12-02",
+      "busFallback": "https://www.rodoeste.com.pt/horarios"                 
     },
                                                     
     {
@@ -874,7 +886,9 @@
       "difficulty": {
         "en": "Medium-Hard",
         "de": "Mittel-Schwierig"
-      }          
+      },
+      "busPdf": "https://www.rodoeste.com.pt/assets/front/pdf/schedules/locality/RIBEIRA%20JANELA.pdf?2025-12-02",
+      "busFallback": "https://www.rodoeste.com.pt/horarios"                 
     },
                                                                     
     {
@@ -934,7 +948,9 @@
       "difficulty": {
         "en": "Hard",
         "de": "Schwierig"
-      }          
+      },
+      "busPdf": "https://www.rodoeste.com.pt/assets/front/pdf/schedules/locality/ENCUMEADA.pdf?2025-12-02",
+      "busFallback": "https://www.rodoeste.com.pt/horarios"                 
     },
                                                                         
     {
@@ -994,7 +1010,9 @@
       "difficulty": {
         "en": "Medium",
         "de": "Mittel"
-      }          
+      },
+      "busPdf": "https://www.rodoeste.com.pt/assets/front/pdf/schedules/locality/PAUL%20DO%20MAR.pdf?2025-12-02",
+      "busFallback": "https://www.rodoeste.com.pt/horarios"                 
     },
                                                                                 
     {
@@ -1024,7 +1042,9 @@
       "difficulty": {
         "en": "Medium",
         "de": "Mittel"
-      }          
+      },
+      "busPdf": "https://www.rodoeste.com.pt/assets/front/pdf/schedules/locality/JARDIM%20DO%20MAR.pdf?2025-12-02",
+      "busFallback": "https://www.rodoeste.com.pt/horarios"                 
     },
                                                                                     
     {
@@ -1114,7 +1134,9 @@
       "difficulty": {
         "en": "Medium",
         "de": "Mittel"
-      }          
+      },
+      "busPdf": "https://siga.madeira.gov.pt/storage/horarios_pdf/110.pdf",
+      "busFallback": "https://siga.madeira.gov.pt"                 
     },
                                                                                                 
     {
@@ -1174,7 +1196,9 @@
       "difficulty": {
         "en": "Hard",
         "de": "Schwierig"
-      }          
+      },
+      "busPdf": "https://siga.madeira.gov.pt/horarios/2029",
+      "busFallback": "https://siga.madeira.gov.pt"                 
     },
                                                                                                         
     {
