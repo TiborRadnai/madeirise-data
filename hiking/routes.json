@@ -17,11 +17,11 @@
         "en": "Trail only passable between Pico do Areeiro and Pedra Rija Belvedere (km 1.2).",
         "de": "Weg nur zwischen Pico do Areeiro und Pedra Rija Belvedere begehbar (km 1,2)."
     },
-    "mapUrl": "/assets/images/pr1-card.jpg",
-    "imageUrl": "/assets/images/routes/pr1.webp",
+    "mapUrl": "assets/images/pr1-card.jpg",
+    "imageUrl": "assets/images/routes/pr1.webp",
     "geojsonPaths": [
-        "/assets/geojson/pr1.json",
-        "/assets/geojson/pr1-variant.json"
+        "assets/geojson/pr1.json",
+        "assets/geojson/pr1-variant.json"
       ],
     "startName": "Pico do Areeiro",
     "endName": "Pico Ruivo",
@@ -49,11 +49,11 @@
         "en": "",
         "de": ""
       },
-    "mapUrl": "/assets/images/pr1.1-card.jpg",
-    "imageUrl": "/assets/images/routes/pr1.1.webp",
+    "mapUrl": "assets/images/pr1.1-card.jpg",
+    "imageUrl": "assets/images/routes/pr1.1.webp",
     "geojsonPaths": [
-        "/assets/geojson/pr1.1.json",
-        "/assets/geojson/pr1.1-variant.json"
+        "assets/geojson/pr1.1.json",
+        "assets/geojson/pr1.1-variant.json"
       ],
     "startName": "Pico Ruivo",
     "endName": "Ilha",
@@ -79,11 +79,11 @@
         "en": "",
         "de": ""
       },
-    "mapUrl": "/assets/images/pr1.2-card.jpg",
-    "imageUrl": "/assets/images/routes/pr1.2.webp",
+    "mapUrl": "assets/images/pr1.2-card.jpg",
+    "imageUrl": "assets/images/routes/pr1.2.webp",
     "geojsonPaths": [
-        "/assets/geojson/pr1.2.json",
-        "/assets/geojson/pr1.2-variant.json"
+        "assets/geojson/pr1.2.json",
+        "assets/geojson/pr1.2-variant.json"
       ],
     "startName": "Achada do Teixeira",
     "endName": "Pico Ruivo",
@@ -109,11 +109,11 @@
         "en": "",
         "de": ""
       },
-    "mapUrl": "/assets/images/pr1.3-card.jpg",
-    "imageUrl": "/assets/images/routes/pr1.3.webp",
+    "mapUrl": "assets/images/pr1.3-card.jpg",
+    "imageUrl": "assets/images/routes/pr1.3.webp",
     "geojsonPaths": [
-        "/assets/geojson/pr1.3.json",
-        "/assets/geojson/pr1.3-variant.json"
+        "assets/geojson/pr1.3.json",
+        "assets/geojson/pr1.3-variant.json"
       ],
     "startName": "Achada do Teixeira",
     "endName": "Boca da Encumeada",
@@ -141,11 +141,11 @@
         "en": "This trail is only accessible from Lombo do Urzal up to kilometer 6.2.",
         "de": "Dieser Wanderweg ist nur vom Lombo do Urzal bis zum Kilometer 6,2 begehbar."
       },
-    "mapUrl": "/assets/images/pr2-card.jpg",
-    "imageUrl": "/assets/images/routes/pr2.webp",
+    "mapUrl": "assets/images/pr2-card.jpg",
+    "imageUrl": "assets/images/routes/pr2.webp",
     "geojsonPaths": [
-        "/assets/geojson/pr2.json",
-        "/assets/geojson/pr2-variant.json"
+        "assets/geojson/pr2.json",
+        "assets/geojson/pr2-variant.json"
       ],
     "startName": "Curral das Freiras",
     "endName": "Lombo do Urzal",
@@ -171,11 +171,11 @@
         "en": "",
         "de": ""
       },
-    "mapUrl": "/assets/images/pr3-card.jpg",
-    "imageUrl": "/assets/images/routes/pr3.webp",
+    "mapUrl": "assets/images/pr3-card.jpg",
+    "imageUrl": "assets/images/routes/pr3.webp",
     "geojsonPaths": [
-        "/assets/geojson/pr3.json",
-        "/assets/geojson/pr3-variant.json"
+        "assets/geojson/pr3.json",
+        "assets/geojson/pr3-variant.json"
       ],
     "startName": "Pico do Areeiro",
     "endName": "Ribeira das Cales",
@@ -201,11 +201,11 @@
         "en": "",
         "de": ""
       },
-    "mapUrl": "/assets/images/pr3.1-card.jpg",
-    "imageUrl": "/assets/images/routes/pr3.1.webp",
+    "mapUrl": "assets/images/pr3.1-card.jpg",
+    "imageUrl": "assets/images/routes/pr3.1.webp",
     "geojsonPaths": [
-        "/assets/geojson/pr3.1.json",
-        "/assets/geojson/pr3.1-variant.json"
+        "assets/geojson/pr3.1.json",
+        "assets/geojson/pr3.1-variant.json"
       ],
     "startName": "Ribeira das Cales",
     "endName": "Monte",
@@ -233,11 +233,11 @@
         "en": "",
         "de": ""
       },
-    "mapUrl": "/assets/images/pr4-card.jpg",
-    "imageUrl": "/assets/images/routes/pr4.webp",
+    "mapUrl": "assets/images/pr4-card.jpg",
+    "imageUrl": "assets/images/routes/pr4.webp",
     "geojsonPaths": [
-        "/assets/geojson/pr4.json",
-        "/assets/geojson/pr4-variant.json"
+        "assets/geojson/pr4.json",
+        "assets/geojson/pr4-variant.json"
       ],
     "startName": "Poço da Neve",
     "endName": "Casa do Barreiro",
@@ -263,11 +263,11 @@
         "en": "",
         "de": ""
       },
-    "mapUrl": "/assets/images/pr5-card.jpg",
-    "imageUrl": "/assets/images/routes/pr5.webp",
+    "mapUrl": "assets/images/pr5-card.jpg",
+    "imageUrl": "assets/images/routes/pr5.webp",
     "geojsonPaths": [
-        "/assets/geojson/pr5.json",
-        "/assets/geojson/pr5-variant.json"
+        "assets/geojson/pr5.json",
+        "assets/geojson/pr5-variant.json"
       ],
     "startName": "Portela",
     "endName": "Maroços",
@@ -295,11 +295,11 @@
         "en": "The Levada das 25 Fontes is one‑way. Outbound (Rabaçal → 25 Fontes): follow the classic trail along the Levada. Return (25 Fontes → Rabaçal): use the alternative route, the so‑called “Bypass“.",
         "de": "Die Levada das 25 Fontes ist als Einbahnweg geregelt. Hinweg (Rabaçal → 25 Quellen): auf dem klassischen Weg entlang der Levada. Rückweg (25 Quellen → Rabaçal): über die alternative Route, den sogenannten „Bypass“."
       },
-    "mapUrl": "/assets/images/pr6-card.jpg",
-    "imageUrl": "/assets/images/routes/pr6.webp",
+    "mapUrl": "assets/images/pr6-card.jpg",
+    "imageUrl": "assets/images/routes/pr6.webp",
     "geojsonPaths": [
-        "/assets/geojson/pr6.json",
-        "/assets/geojson/pr6-variant.json"
+        "assets/geojson/pr6.json",
+        "assets/geojson/pr6-variant.json"
       ],
     "startName": "Rabaçal (ER105)",
     "endName": "25 Fontes",
@@ -325,11 +325,11 @@
         "en": "",
         "de": ""
       },
-    "mapUrl": "/assets/images/pr6.1-card.jpg",
-    "imageUrl": "/assets/images/routes/pr6.1.webp",
+    "mapUrl": "assets/images/pr6.1-card.jpg",
+    "imageUrl": "assets/images/routes/pr6.1.webp",
     "geojsonPaths": [
-        "/assets/geojson/pr6.1.json",
-        "/assets/geojson/pr6.1-variant.json"
+        "assets/geojson/pr6.1.json",
+        "assets/geojson/pr6.1-variant.json"
       ],
     "startName": "Rabaçal (ER105)",
     "endName": "Risco",
@@ -355,11 +355,11 @@
         "en": "",
         "de": ""
       },
-    "mapUrl": "/assets/images/pr6.2-card.jpg",
-    "imageUrl": "/assets/images/routes/pr6.2.webp",
+    "mapUrl": "assets/images/pr6.2-card.jpg",
+    "imageUrl": "assets/images/routes/pr6.2.webp",
     "geojsonPaths": [
-        "/assets/geojson/pr6.2.json",
-        "/assets/geojson/pr6.2-variant.json"
+        "assets/geojson/pr6.2.json",
+        "assets/geojson/pr6.2-variant.json"
       ],
     "startName": "Rabaçal (ER105)",
     "endName": "Lagoa da Dona Beja",
@@ -385,11 +385,11 @@
         "en": "",
         "de": ""
       },
-    "mapUrl": "/assets/images/pr6.3-card.jpg",
-    "imageUrl": "/assets/images/routes/pr6.3.webp",
+    "mapUrl": "assets/images/pr6.3-card.jpg",
+    "imageUrl": "assets/images/routes/pr6.3.webp",
     "geojsonPaths": [
-        "/assets/geojson/pr6.3.json",
-        "/assets/geojson/pr6.3-variant.json"
+        "assets/geojson/pr6.3.json",
+        "assets/geojson/pr6.3-variant.json"
       ],
     "startName": "Rabaçal (ER105)",
     "endName": "Lagoa do Vento",
@@ -415,11 +415,11 @@
         "en": "",
         "de": ""
       },
-    "mapUrl": "/assets/images/pr6.4-card.jpg",
-    "imageUrl": "/assets/images/routes/pr6.4.webp",
+    "mapUrl": "assets/images/pr6.4-card.jpg",
+    "imageUrl": "assets/images/routes/pr6.4.webp",
     "geojsonPaths": [
-        "/assets/geojson/pr6.4.json",
-        "/assets/geojson/pr6.4-variant.json"
+        "assets/geojson/pr6.4.json",
+        "assets/geojson/pr6.4-variant.json"
       ],
     "startName": "Pico Gordo (ER105)",
     "endName": "Casa do Rabaçal",
@@ -445,11 +445,11 @@
         "en": "",
         "de": ""
       },
-    "mapUrl": "/assets/images/pr6.5-card.jpg",
-    "imageUrl": "/assets/images/routes/pr6.5.webp",
+    "mapUrl": "assets/images/pr6.5-card.jpg",
+    "imageUrl": "assets/images/routes/pr6.5.webp",
     "geojsonPaths": [
-        "/assets/geojson/pr6.5.json",
-        "/assets/geojson/pr6.5-variant.json"
+        "assets/geojson/pr6.5.json",
+        "assets/geojson/pr6.5-variant.json"
       ],
     "startName": "Paul da Serra (ER209)",
     "endName": "25 Fontes",
@@ -475,11 +475,11 @@
         "en": "",
         "de": ""
       },
-    "mapUrl": "/assets/images/pr6.6-card.jpg",
-    "imageUrl": "/assets/images/routes/pr6.6.webp",
+    "mapUrl": "assets/images/pr6.6-card.jpg",
+    "imageUrl": "assets/images/routes/pr6.6.webp",
     "geojsonPaths": [
-        "/assets/geojson/pr6.6.json",
-        "/assets/geojson/pr6.6-variant.json"
+        "assets/geojson/pr6.6.json",
+        "assets/geojson/pr6.6-variant.json"
       ],
     "startName": "Estrada Dr.Roberto Monteiro",
     "endName": "Casa do Rabaçal",
@@ -505,11 +505,11 @@
         "en": "",
         "de": ""
       },
-    "mapUrl": "/assets/images/pr6.7-card.jpg",
-    "imageUrl": "/assets/images/routes/pr6.7.webp",
+    "mapUrl": "assets/images/pr6.7-card.jpg",
+    "imageUrl": "assets/images/routes/pr6.7.webp",
     "geojsonPaths": [
-        "/assets/geojson/pr6.7.json",
-        "/assets/geojson/pr6.7-variant.json"
+        "assets/geojson/pr6.7.json",
+        "assets/geojson/pr6.7-variant.json"
       ],
     "startName": "Rabaçal (ER105)",
     "endName": "Túnel do Cavalo",
@@ -535,11 +535,11 @@
         "en": "",
         "de": ""
       },
-    "mapUrl": "/assets/images/pr6.8-card.jpg",
-    "imageUrl": "/assets/images/routes/pr6.8.webp",
+    "mapUrl": "assets/images/pr6.8-card.jpg",
+    "imageUrl": "assets/images/routes/pr6.8.webp",
     "geojsonPaths": [
-        "/assets/geojson/pr6.8.json",
-        "/assets/geojson/pr6.8-variant.json"
+        "assets/geojson/pr6.8.json",
+        "assets/geojson/pr6.8-variant.json"
       ],
     "startName": "Rabaçal (ER105)",
     "endName": "Estrada do Rochão",
@@ -565,11 +565,11 @@
         "en": "",
         "de": ""
       },
-      "mapUrl": "/assets/images/pr7-card.jpg",
-      "imageUrl": "/assets/images/routes/pr7.webp",
+      "mapUrl": "assets/images/pr7-card.jpg",
+      "imageUrl": "assets/images/routes/pr7.webp",
       "geojsonPaths": [
-          "/assets/geojson/pr7.json",
-          "/assets/geojson/pr7-variant.json"
+          "assets/geojson/pr7.json",
+          "assets/geojson/pr7-variant.json"
         ],
     "startName": "Ribeira da Cruz",
     "endName": "Junqueira",
@@ -595,11 +595,11 @@
         "en": "",
         "de": ""
       },
-      "mapUrl": "/assets/images/pr8-card.jpg",
-      "imageUrl": "/assets/images/routes/pr8.webp",
+      "mapUrl": "assets/images/pr8-card.jpg",
+      "imageUrl": "assets/images/routes/pr8.webp",
       "geojsonPaths": [
-          "/assets/geojson/pr8.json",
-          "/assets/geojson/pr8-variant.json"
+          "assets/geojson/pr8.json",
+          "assets/geojson/pr8-variant.json"
         ],
     "startName": "Baia d´Abra",
     "endName": "Casa do Sardinha",
@@ -627,11 +627,11 @@
         "en": "Attention! The section between Caldeirão Verde and Caldeirão do Inferno is CLOSED!",
         "de": "Achtung! Der Abschnitt zwischen Caldeirão Verde und Caldeirão do Inferno ist GESCHLOSSEN!"
       },
-      "mapUrl": "/assets/images/pr9-card.jpg",
-      "imageUrl": "/assets/images/routes/pr9.webp",
+      "mapUrl": "assets/images/pr9-card.jpg",
+      "imageUrl": "assets/images/routes/pr9.webp",
       "geojsonPaths": [
-          "/assets/geojson/pr9.json",
-          "/assets/geojson/pr9-variant.json"
+          "assets/geojson/pr9.json",
+          "assets/geojson/pr9-variant.json"
         ],
     "startName": "Parque Florestal das Queimadas",
     "endName": "Caldeirão do Inferno",
@@ -657,11 +657,11 @@
         "en": "",
         "de": ""
       },
-      "mapUrl": "/assets/images/pr9.1-card.jpg",
-      "imageUrl": "/assets/images/routes/pr9.1.webp",
+      "mapUrl": "assets/images/pr9.1-card.jpg",
+      "imageUrl": "assets/images/routes/pr9.1.webp",
       "geojsonPaths": [
-          "/assets/geojson/pr9.1.json",
-          "/assets/geojson/pr9.1-variant.json"
+          "assets/geojson/pr9.1.json",
+          "assets/geojson/pr9.1-variant.json"
         ],
     "startName": "Parque Florestal das Queimadas",
     "endName": "Parking Pico das Pedras",
@@ -687,11 +687,11 @@
         "en": "",
         "de": ""
       },
-      "mapUrl": "/assets/images/pr10-card.jpg",
-      "imageUrl": "/assets/images/routes/pr10.webp",
+      "mapUrl": "assets/images/pr10-card.jpg",
+      "imageUrl": "assets/images/routes/pr10.webp",
       "geojsonPaths": [
-          "/assets/geojson/pr10.json",
-          "/assets/geojson/pr10-variant.json"
+          "assets/geojson/pr10.json",
+          "assets/geojson/pr10-variant.json"
         ],
     "startName": "Ribeiro Frio",
     "endName": "Portela",
@@ -719,11 +719,11 @@
         "en": "",
         "de": ""
       },
-      "mapUrl": "/assets/images/pr11-card.jpg",
-      "imageUrl": "/assets/images/routes/pr11.webp",
+      "mapUrl": "assets/images/pr11-card.jpg",
+      "imageUrl": "assets/images/routes/pr11.webp",
       "geojsonPaths": [
-          "/assets/geojson/pr11.json",
-          "/assets/geojson/pr11-variant.json"
+          "assets/geojson/pr11.json",
+          "assets/geojson/pr11-variant.json"
         ],
     "startName": "Ribeiro Frio",
     "endName": "Balcões",
@@ -749,11 +749,11 @@
         "en": "This trail is only accessible from Boca da Corrida up to kilometer 3.5.",
         "de": "Dieser Wanderweg ist nur von Boca da Corrida bis zum Kilometer 3,5 begehbar."
       },
-      "mapUrl": "/assets/images/pr12-card.jpg",
-      "imageUrl": "/assets/images/routes/pr12.webp",
+      "mapUrl": "assets/images/pr12-card.jpg",
+      "imageUrl": "assets/images/routes/pr12.webp",
       "geojsonPaths": [
-          "/assets/geojson/pr12.json",
-          "/assets/geojson/pr12-variant.json"
+          "assets/geojson/pr12.json",
+          "assets/geojson/pr12-variant.json"
         ],
     "startName": "Miradouro da Boca da Corrida",
     "endName": "Encumeada",
@@ -781,11 +781,11 @@
         "en": "",
         "de": ""
       },
-      "mapUrl": "/assets/images/pr13-card.jpg",
-      "imageUrl": "/assets/images/routes/pr13.webp",
+      "mapUrl": "assets/images/pr13-card.jpg",
+      "imageUrl": "assets/images/routes/pr13.webp",
       "geojsonPaths": [
-          "/assets/geojson/pr13.json",
-          "/assets/geojson/pr13-variant.json"
+          "assets/geojson/pr13.json",
+          "assets/geojson/pr13-variant.json"
         ],
     "startName": "Assobiadores (ER209)",
     "endName": "Fanal",
@@ -811,11 +811,11 @@
         "en": "",
         "de": ""
       },
-      "mapUrl": "/assets/images/pr13.1-card.jpg",
-      "imageUrl": "/assets/images/routes/pr13.1.webp",
+      "mapUrl": "assets/images/pr13.1-card.jpg",
+      "imageUrl": "assets/images/routes/pr13.1.webp",
       "geojsonPaths": [
-          "/assets/geojson/pr13.1.json",
-          "/assets/geojson/pr13.1-variant.json"
+          "assets/geojson/pr13.1.json",
+          "assets/geojson/pr13.1-variant.json"
         ],
     "startName": "Louro da Gota (ER209)",
     "endName": "25 Fontes",
@@ -841,11 +841,11 @@
         "en": "",
         "de": ""
       },
-      "mapUrl": "/assets/images/pr14-card.jpg",
-      "imageUrl": "/assets/images/routes/pr14.webp",
+      "mapUrl": "assets/images/pr14-card.jpg",
+      "imageUrl": "assets/images/routes/pr14.webp",
       "geojsonPaths": [
-          "/assets/geojson/pr14.json",
-          "/assets/geojson/pr14-variant.json"
+          "assets/geojson/pr14.json",
+          "assets/geojson/pr14-variant.json"
         ],
     "startName": "Fanal",
     "endName": "Curral Falso",
@@ -871,11 +871,11 @@
         "en": "",
         "de": ""
       },
-      "mapUrl": "/assets/images/pr15-card.jpg",
-      "imageUrl": "/assets/images/routes/pr15.webp",
+      "mapUrl": "assets/images/pr15-card.jpg",
+      "imageUrl": "assets/images/routes/pr15.webp",
       "geojsonPaths": [
-          "/assets/geojson/pr15.json",
-          "/assets/geojson/pr15-variant.json"
+          "assets/geojson/pr15.json",
+          "assets/geojson/pr15-variant.json"
         ],
     "startName": "Curral Falso",
     "endName": "Ribeira da Janela",
@@ -903,11 +903,11 @@
         "en": "",
         "de": ""
       },
-      "mapUrl": "/assets/images/pr16-card.jpg",
-      "imageUrl": "/assets/images/routes/pr16.webp",
+      "mapUrl": "assets/images/pr16-card.jpg",
+      "imageUrl": "assets/images/routes/pr16.webp",
       "geojsonPaths": [
-          "/assets/geojson/pr16.json",
-          "/assets/geojson/pr16-variant.json"
+          "assets/geojson/pr16.json",
+          "assets/geojson/pr16-variant.json"
         ],
     "startName": "Ginjas",
     "endName": "Ribeira do Inferno",
@@ -933,11 +933,11 @@
         "en": "The trail is accessible only between Encumeada and Bica da Cana, passing Folhadal–Caramujo. Other sections are currently not usable.",
         "de": "Der Wanderweg ist nur zwischen Encumeada und Bica da Cana über Folhadal–Caramujo begehbar. Andere Abschnitte sind derzeit nicht nutzbar."
       },
-      "mapUrl": "/assets/images/pr17-card.jpg",
-      "imageUrl": "/assets/images/routes/pr17.webp",
+      "mapUrl": "assets/images/pr17-card.jpg",
+      "imageUrl": "assets/images/routes/pr17.webp",
       "geojsonPaths": [
-          "/assets/geojson/pr17.json",
-          "/assets/geojson/pr17v-variant.json"
+          "assets/geojson/pr17.json",
+          "assets/geojson/pr17v-variant.json"
         ],
     "startName": "Lombo do Mouro",
     "endName": "Boca da Encumeada",
@@ -965,11 +965,11 @@
         "en": "",
         "de": ""
       },
-      "mapUrl": "/assets/images/pr18-card.jpg",
-      "imageUrl": "/assets/images/routes/pr18.webp",
+      "mapUrl": "assets/images/pr18-card.jpg",
+      "imageUrl": "assets/images/routes/pr18.webp",
       "geojsonPaths": [
-          "/assets/geojson/pr18.json",
-          "/assets/geojson/pr18-variant.json"
+          "assets/geojson/pr18.json",
+          "assets/geojson/pr18-variant.json"
         ],
     "startName": "Quebradas (ETA de São Jorge)",
     "endName": "Ribeiro Bonito",
@@ -995,11 +995,11 @@
         "en": "",
         "de": ""
       },
-      "mapUrl": "/assets/images/pr19-card.jpg",
-      "imageUrl": "/assets/images/routes/pr19.webp",
+      "mapUrl": "assets/images/pr19-card.jpg",
+      "imageUrl": "assets/images/routes/pr19.webp",
       "geojsonPaths": [
-          "/assets/geojson/pr19.json",
-          "/assets/geojson/pr19-variant.json"
+          "assets/geojson/pr19.json",
+          "assets/geojson/pr19-variant.json"
         ],
     "startName": "Prazeres",
     "endName": "Paul do Mar",
@@ -1027,11 +1027,11 @@
         "en": "",
         "de": ""
       },
-      "mapUrl": "/assets/images/pr20-card.jpg",
-      "imageUrl": "/assets/images/routes/pr20.webp",
+      "mapUrl": "assets/images/pr20-card.jpg",
+      "imageUrl": "assets/images/routes/pr20.webp",
       "geojsonPaths": [
-          "/assets/geojson/pr20.json",
-          "/assets/geojson/pr20-variant.json"
+          "assets/geojson/pr20.json",
+          "assets/geojson/pr20-variant.json"
         ],
     "startName": "Prazeres",
     "endName": "Jardim do Mar",
@@ -1059,11 +1059,11 @@
         "en": "",
         "de": ""
       },
-      "mapUrl": "/assets/images/pr21-card.jpg",
-      "imageUrl": "/assets/images/routes/pr21.webp",
+      "mapUrl": "assets/images/pr21-card.jpg",
+      "imageUrl": "assets/images/routes/pr21.webp",
       "geojsonPaths": [
-          "/assets/geojson/pr21.json",
-          "/assets/geojson/pr21-variant.json"
+          "assets/geojson/pr21.json",
+          "assets/geojson/pr21-variant.json"
         ],
     "startName": "Boca da Encumeada",
     "endName": "Ribeira Grande",
@@ -1089,11 +1089,11 @@
         "en": "",
         "de": ""
       },
-      "mapUrl": "/assets/images/pr22-card.jpg",
-      "imageUrl": "/assets/images/routes/pr22.webp",
+      "mapUrl": "assets/images/pr22-card.jpg",
+      "imageUrl": "assets/images/routes/pr22.webp",
       "geojsonPaths": [
-          "/assets/geojson/pr22.json",
-          "/assets/geojson/pr22-variant.json"
+          "assets/geojson/pr22.json",
+          "assets/geojson/pr22-variant.json"
         ],
     "startName": "Chão dos Louros",
     "endName": "Chão dos Louros",
@@ -1119,11 +1119,11 @@
         "en": "",
         "de": ""
       },
-      "mapUrl": "/assets/images/pr23-card.jpg",
-      "imageUrl": "/assets/images/routes/pr23.webp",
+      "mapUrl": "assets/images/pr23-card.jpg",
+      "imageUrl": "assets/images/routes/pr23.webp",
       "geojsonPaths": [
-          "/assets/geojson/pr23.json",
-          "/assets/geojson/pr23-variant.json"
+          "assets/geojson/pr23.json",
+          "assets/geojson/pr23-variant.json"
         ],
     "startName": "Azenha Estrada Regional (ER204)",
     "endName": "Caminho Velho do Castelo",
@@ -1151,11 +1151,11 @@
         "en": "",
         "de": ""
       },
-      "mapUrl": "/assets/images/pr27-card.jpg",
-      "imageUrl": "/assets/images/routes/pr27.webp",
+      "mapUrl": "assets/images/pr27-card.jpg",
+      "imageUrl": "assets/images/routes/pr27.webp",
       "geojsonPaths": [
-          "/assets/geojson/pr27.json",
-          "/assets/geojson/pr27-variant.json"
+          "assets/geojson/pr27.json",
+          "assets/geojson/pr27-variant.json"
         ],
     "startName": "Bica da Cana",
     "endName": "ER 105",
@@ -1181,11 +1181,11 @@
         "en": "",
         "de": ""
       },
-      "mapUrl": "/assets/images/pr28-card.jpg",
-      "imageUrl": "/assets/images/routes/pr28.webp",
+      "mapUrl": "assets/images/pr28-card.jpg",
+      "imageUrl": "assets/images/routes/pr28.webp",
       "geojsonPaths": [
-          "/assets/geojson/pr28.json",
-          "/assets/geojson/pr28-variant.json"
+          "assets/geojson/pr28.json",
+          "assets/geojson/pr28-variant.json"
         ],
     "startName": "Fanal (ER209)",
     "endName": "Casa dos Guardas de Canal (Lombo do Atouguia)",
@@ -1213,11 +1213,11 @@
         "en": "",
         "de": ""
       },
-      "mapUrl": "/assets/images/pspr1-card.jpg",
-      "imageUrl": "/assets/images/routes/pspr1.webp",
+      "mapUrl": "assets/images/pspr1-card.jpg",
+      "imageUrl": "assets/images/routes/pspr1.webp",
       "geojsonPaths": [
-          "/assets/geojson/pspr1.json",
-          "/assets/geojson/pspr1-variant.json"
+          "assets/geojson/pspr1.json",
+          "assets/geojson/pspr1-variant.json"
         ],
     "startName": "ER 120",
     "endName": "Terra Chã",
@@ -1243,11 +1243,11 @@
         "en": "",
         "de": ""
       },
-      "mapUrl": "/assets/imagespspr2-card.jpg",
-      "imageUrl": "/assets/images/routes/pspr2.webp",
+      "mapUrl": "assets/imagespspr2-card.jpg",
+      "imageUrl": "assets/images/routes/pspr2.webp",
       "geojsonPaths": [
-          "/assets/geojson/pspr2.json",
-          "/assets/geojson/pspr2-variant.json"
+          "assets/geojson/pspr2.json",
+          "assets/geojson/pspr2-variant.json"
         ],
     "startName": "Moledo",
     "endName": "Miradouro do Canhão",
@@ -1273,11 +1273,11 @@
         "en": "",
         "de": ""
       },
-      "mapUrl": "/assets/images/pspr3-card.jpg",
-      "imageUrl": "/assets/images/routes/pspr3.webp",
+      "mapUrl": "assets/images/pspr3-card.jpg",
+      "imageUrl": "assets/images/routes/pspr3.webp",
       "geojsonPaths": [
-          "/assets/geojson/pspr3.json",
-          "/assets/geojson/pspr3-variant.json"
+          "assets/geojson/pspr3.json",
+          "assets/geojson/pspr3-variant.json"
         ],
     "startName": "Camacha",
     "endName": "Capela da Graça",
