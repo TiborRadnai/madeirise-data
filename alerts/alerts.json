@@ -2,7 +2,7 @@
   "alerts": [
     {
       "type": "hiking",
-      "active": false,
+      "active": true,
       "banner": {
         "en": "⚠ Hiking trails closed – valid from 2025-02-12",
         "de": "⚠ Wanderwege geschlossen – gültig ab 12.02.2025"
