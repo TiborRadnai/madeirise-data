@@ -26,7 +26,7 @@
     },
     {
       "type": "ocean",
-      "active": true,
+      "active": false,
       "banner": {
         "en": "⚠ Ocean alert – valid from 2025-02-12",
         "de": "⚠ Ozeanwarnung – gültig ab 12.02.2025"
@@ -50,7 +50,7 @@
     },
     {
       "type": "fire",
-      "active": false,
+      "active": true,
       "banner": {
         "en": "⚠ Fire alert – Ponta do Pargo area (valid from 2025-02-12)",
         "de": "⚠ Feuerwarnung – Region Ponta do Pargo (gültig ab 12.02.2025)"
