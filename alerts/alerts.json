@@ -2,7 +2,7 @@
   "alerts": [
     {
       "type": "hiking",
-      "active": false,
+      "active": true,
       "banner": {
         "en": "",
         "de": ""
