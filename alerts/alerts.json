@@ -4,8 +4,8 @@
       "type": "hiking",
       "active": true,
       "banner": {
-        "en": "⚠ Hiking trails closed – valid from 2025-02-12",
-        "de": "⚠ Wanderwege geschlossen – gültig ab 12.02.2025"
+        "en": "Hiking trails closed – valid from 2025-02-12",
+        "de": "Wanderwege geschlossen – gültig ab 12.02.2025"
       },
       "modal": {
         "title": {
@@ -26,10 +26,10 @@
     },
     {
       "type": "ocean",
-      "active": false,
+      "active": true,
       "banner": {
-        "en": "⚠ Ocean alert – valid from 2025-02-12",
-        "de": "⚠ Ozeanwarnung – gültig ab 12.02.2025"
+        "en": "Ocean alert – valid from 2025-02-12",
+        "de": "Ozeanwarnung – gültig ab 12.02.2025"
       },
       "modal": {
         "title": {
@@ -52,8 +52,8 @@
       "type": "fire",
       "active": false,
       "banner": {
-        "en": "⚠ Fire alert – Ponta do Pargo area (valid from 2025-02-12)",
-        "de": "⚠ Feuerwarnung – Region Ponta do Pargo (gültig ab 12.02.2025)"
+        "en": "Fire alert – Ponta do Pargo area (valid from 2025-02-12)",
+        "de": "Feuerwarnung – Region Ponta do Pargo (gültig ab 12.02.2025)"
       },
       "modal": {
         "title": {
