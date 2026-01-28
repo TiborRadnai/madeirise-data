@@ -2,7 +2,7 @@
   "alerts": [
     {
       "type": "hiking",
-      "active": true,
+      "active": false,
       "banner": {
         "en": "⚠ Hiking trails closed – valid from 2025-02-12",
         "de": "⚠ Wanderwege geschlossen – gültig ab 12.02.2025"
@@ -26,7 +26,7 @@
     },
     {
       "type": "ocean",
-      "active": false,
+      "active": true,
       "banner": {
         "en": "⚠ Ocean alert – valid from 2025-02-12",
         "de": "⚠ Ozeanwarnung – gültig ab 12.02.2025"
