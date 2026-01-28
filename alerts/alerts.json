@@ -1,0 +1,58 @@
+{
+  "alerts": [
+    {
+      "type": "hiking",
+      "active": false,
+      "banner": {
+        "en": "",
+        "de": ""
+      },
+      "modal": {
+        "title": {
+          "en": "",
+          "de": ""
+        },
+        "message": {
+          "en": "",
+          "de": ""
+        }
+      }
+    },
+    {
+      "type": "ocean",
+      "active": false,
+      "banner": {
+        "en": "",
+        "de": ""
+      },
+      "modal": {
+        "title": {
+          "en": "",
+          "de": ""
+        },
+        "message": {
+          "en": "",
+          "de": ""
+        }
+      }
+    },
+    {
+      "type": "fire",
+      "active": false,
+      "banner": {
+        "en": "",
+        "de": ""
+      },
+      "modal": {
+        "title": {
+          "en": "",
+          "de": ""
+        },
+        "message": {
+          "en": "",
+          "de": ""
+        }
+      }
+    }
+  ]
+}
