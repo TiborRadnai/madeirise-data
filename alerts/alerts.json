@@ -4,17 +4,23 @@
       "type": "hiking",
       "active": true,
       "banner": {
-        "en": "⚠ Hiking alert – valid from 2025-02-12",
-        "de": "⚠ Wanderwarnung – gültig ab 12.02.2025"
+        "en": "⚠ Hiking trails closed – valid from 2025-02-12",
+        "de": "⚠ Wanderwege geschlossen – gültig ab 12.02.2025"
       },
       "modal": {
         "title": {
-          "en": "Hiking Alert – valid from 2025-02-12",
-          "de": "Wanderwarnung – gültig ab 12.02.2025"
+          "en": "All hiking trails closed",
+          "de": "Alle Wanderwege geschlossen"
         },
+
+        "date": { 
+            "en": "Valid from 2025-02-12", 
+            "de": "Gültig ab 12.02.2025" 
+        },
+
         "message": {
-          "en": "From 2025-02-12, several mountain trails may be slippery or temporarily closed due to unstable weather conditions. Please check local signs, avoid exposed ridges, and choose safe routes. Your safety comes first.",
-          "de": "Ab dem 12.02.2025 können mehrere Bergwege aufgrund instabiler Wetterbedingungen rutschig oder vorübergehend gesperrt sein. Bitte beachte lokale Hinweise, meide ausgesetzte Grate und wähle sichere Routen. Deine Sicherheit steht an erster Stelle."
+          "en": "Due to severe weather conditions, all hiking trails will be closed from 2025-02-12 until further notice. Access to the mountains is not permitted. Please avoid all trail areas for your safety and to support local authorities.",
+          "de": "Aufgrund der starken Wetterbedingungen sind ab dem 12.02.2025 alle Wanderwege bis auf Weiteres geschlossen. Der Zugang zu den Bergen ist nicht gestattet. Bitte meide alle Wandergebiete zu deiner eigenen Sicherheit und zur Unterstützung der Einsatzkräfte."
         }
       }
     },
@@ -27,9 +33,15 @@
       },
       "modal": {
         "title": {
-          "en": "Ocean Alert – valid from 2025-02-12",
-          "de": "Ozeanwarnung – gültig ab 12.02.2025"
+          "en": "Ocean Alert",
+          "de": "Ozeanwarnung"
         },
+        
+        "date": { 
+            "en": "Valid from 2025-02-12", 
+            "de": "Gültig ab 12.02.2025" 
+        },
+
         "message": {
           "en": "From 2025-02-12, strong waves and unpredictable currents are expected along several coastal areas. Swimming is not recommended, and cliffside viewpoints may be dangerous. Please stay at a safe distance from the water.",
           "de": "Ab dem 12.02.2025 werden starke Wellen und unvorhersehbare Strömungen an mehreren Küstenabschnitten erwartet. Schwimmen wird nicht empfohlen, und Klippenaussichtspunkte können gefährlich sein. Bitte halte ausreichend Abstand zum Wasser."
@@ -45,9 +57,15 @@
       },
       "modal": {
         "title": {
-          "en": "Fire Alert – Ponta do Pargo (valid from 2025-02-12)",
-          "de": "Feuerwarnung – Ponta do Pargo (gültig ab 12.02.2025)"
+          "en": "Fire Alert – Ponta do Pargo",
+          "de": "Feuerwarnung – Ponta do Pargo"
         },
+        
+        "date": { 
+            "en": "Valid from 2025-02-12", 
+            "de": "Gültig ab 12.02.2025" 
+        },
+
         "message": {
           "en": "A wildfire has been reported in the Ponta do Pargo area as of 2025-02-12. For your safety and to support the work of local firefighters, please avoid this region until further notice. Road access may be restricted, and smoke can reduce visibility. Thank you for helping keep the area safe.",
           "de": "Seit dem 12.02.2025 wurde in der Region Ponta do Pargo ein Waldbrand gemeldet. Zu deiner eigenen Sicherheit und zur Unterstützung der Feuerwehr meide bitte dieses Gebiet bis auf Weiteres. Straßen können gesperrt sein, und Rauch kann die Sicht beeinträchtigen. Danke, dass du dazu beiträgst, die Region sicher zu halten."
